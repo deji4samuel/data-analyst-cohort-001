@@ -1,2 +1,2 @@
 # data-analyst-cohort-001
-Profile building for DA roles
+Profile building for Data Analysis work done
