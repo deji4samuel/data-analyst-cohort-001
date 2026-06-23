@@ -6,3 +6,12 @@ I was able to create a local settings file named ".env.development."
 I add to GitHub files
 I updated the readme file
 I committed the changes I made.
+
+<!-- qode-clarity:data-analyst-job-ready:journal-link:start -->
+## Qode Clarity Learning Journal
+
+This repo tracks my Qode Clarity learning evidence.
+
+- [Learning journal](journal.md)
+
+<!-- qode-clarity:data-analyst-job-ready:journal-link:end -->
