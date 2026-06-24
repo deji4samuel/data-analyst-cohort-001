@@ -14,6 +14,7 @@
 2. I installed VS Code on my local laptop
 3. I cloned the GitHub repo with my local workspace via VS code
 4. I was able to create a local settings file named ".env.development."
+5. I created required folders in the application base folder on my laptop
 
 ### To Explore Further
 
