@@ -11,14 +11,16 @@
 ### What I Did
 
 1. I have learned how to create a repo on GitHub and invite collaborators.
-2. I installed VS Code on my loacl laptop
+2. I installed VS Code on my local laptop
+3. I cloned the GitHub repo with my local workspace via VS code
 
 ### To Explore Further
 
 - [x] VS Code installation
 - [ ] Creating local environment development setting file
-- [ ] Cloning GitHub repo with VS Code
+- [x] Cloning GitHub repo with VS Code
 - [ ] Install Python
+- [ ] Install Jupyter notebook
 
 ---
 
