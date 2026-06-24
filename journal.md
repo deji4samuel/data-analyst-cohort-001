@@ -13,11 +13,12 @@
 1. I have learned how to create a repo on GitHub and invite collaborators.
 2. I installed VS Code on my local laptop
 3. I cloned the GitHub repo with my local workspace via VS code
+4. I was able to create a local settings file named ".env.development."
 
 ### To Explore Further
 
 - [x] VS Code installation
-- [ ] Creating local environment development setting file
+- [x] Creating local environment development setting file
 - [x] Cloning GitHub repo with VS Code
 - [ ] Install Python
 - [ ] Install Jupyter notebook
