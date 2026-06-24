@@ -11,12 +11,14 @@
 ### What I Did
 
 1. I have learned how to create a repo on GitHub and invite collaborators.
+2. I installed VS Code on my loacl laptop
 
 ### To Explore Further
 
-- [ ] VS Code installation
+- [x] VS Code installation
 - [ ] Creating local environment development setting file
 - [ ] Cloning GitHub repo with VS Code
+- [ ] Install Python
 
 ---
 
