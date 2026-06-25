@@ -41,13 +41,14 @@
 3. I sort the data in the Table
 4. I filter the data as required
 5. I make use of a named range on a column and calculated its total sum
+6. I save the file with the required insight for further action
 
 ### To Explore Further
 
 - [x] Filter in Exce Table
 - [x] Sort in Excel Table
 - [x] Create a named range on columns
-- [ ] Summarising the findings
+- [x] Summarising the findings
 
 ---
 
