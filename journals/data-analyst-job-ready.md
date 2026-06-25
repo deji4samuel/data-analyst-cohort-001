@@ -40,12 +40,13 @@
 2. I converted Excel Spreadsheet into a Table and make it a named Table
 3. I sort the data in the Table
 4. I filter the data as required
+5. I make use of a named range on a column and calculated its total sum
 
 ### To Explore Further
 
 - [x] Filter in Exce Table
 - [x] Sort in Excel Table
-- [ ] Create a named range on columns
+- [x] Create a named range on columns
 - [ ] Summarising the findings
 
 ---
