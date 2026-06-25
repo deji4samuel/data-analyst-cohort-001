@@ -8,10 +8,10 @@ I updated the readme file
 I committed the changes I made.
 
 <!-- qode-clarity:data-analyst-job-ready:journal-link:start -->
-## Qode Clarity Learning Journal
+## Qode Clarity — data-analyst-job-ready
 
 This repo tracks my Qode Clarity learning evidence.
 
-- [Learning journal](journal.md)
+- [Learning journal](journals/data-analyst-job-ready.md)
 
 <!-- qode-clarity:data-analyst-job-ready:journal-link:end -->
