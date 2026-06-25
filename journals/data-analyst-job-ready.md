@@ -30,7 +30,22 @@
 
 ---
 
-## Day 2 - Practice: Workbook setup, tables, sorting, filtering, and named ranges
+## Day 2 - Learn: Workbook setup, tables, sorting, filtering, and named ranges
+
+**Phase:** Excel
+
+### What I Did
+
+1. I understand that raw data has to be kept intact and not edited. In other words, duplicate the raw data and work with the copied version
+2. I created an extra sheet so as to be documenting the insights I got I was filtering and sorting the data
+
+### To Explore Further
+
+
+
+---
+
+## Day 3 - Practice: Workbook setup, tables, sorting, filtering, and named ranges
 
 **Phase:** Excel
 
@@ -49,6 +64,20 @@
 - [x] Sort in Excel Table
 - [x] Create a named range on columns
 - [x] Summarising the findings
+
+---
+
+## Day 4 - Clean and validate: Workbook setup, tables, sorting, filtering, and named ranges
+
+**Phase:** Excel
+
+### What I Did
+
+1. I inspect the data and remove the duplicates
+
+### To Explore Further
+
+
 
 ---
 
