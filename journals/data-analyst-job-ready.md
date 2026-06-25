@@ -38,11 +38,12 @@
 
 1. I set up Excel Workbook
 2. I converted Excel Spreadsheet into a Table and make it a named Table
+3. I sort the data in the Table
 
 ### To Explore Further
 
 - [ ] Filter in Exce Table
-- [ ] Sort in Excel Table
+- [x] Sort in Excel Table
 - [ ] Create a named range on columns
 
 ---
