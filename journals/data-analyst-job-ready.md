@@ -37,10 +37,13 @@
 ### What I Did
 
 1. I set up Excel Workbook
+2. I converted Excel Spreadsheet into a Table and make it a named Table
 
 ### To Explore Further
 
-- [ ] Excel Formula
+- [ ] Filter in Exce Table
+- [ ] Sort in Excel Table
+- [ ] Create a named range on columns
 
 ---
 
