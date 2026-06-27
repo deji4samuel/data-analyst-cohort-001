@@ -13,11 +13,12 @@
 1. I inspect the data and remove the duplicates
 2. I used =PROPER(text) to capitalise all the the first letters of the names
 3. I standardise Date column with format on MS excel
+4. I cleaned the leading and trailing spaces with the use of =TRIM(text) function in MS Excel
 
 ### To Explore Further
 
 - [x] Standardize Date Column
-- [ ] Cleaning of leading and trailing spaces
+- [x] Cleaning of leading and trailing spaces
 - [ ] Discovering the impossible values
 
 ---
