@@ -141,10 +141,11 @@ I opened the SalesTable in the tracker sheet, and I sorted the revenue field in 
 
 1. I converted Excel Spreadsheet into a Table and make it a named Table
 2. I sort the data in the Table with Value column to determine the Hub that has highest order value
+3. I then filter the Table with the insight I got from earlier sort operation to get all the  transaction that happened in each hub
 
 ### To Explore Further
 
-- [ ] Excel Formulas
+- [x] Excel Formulas
 - [ ] Excel Functions - SUMIF()
 - [ ] Excel Functions - COUNT(), COUNTA(), and COUNTIF()
 - [ ] Excel Functions - AVERAGEIF()
