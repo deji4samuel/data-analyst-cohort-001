@@ -14,6 +14,7 @@
 2. I used =PROPER(text) to capitalise all the the first letters of the names
 3. I standardise Date column with format on MS excel
 4. I cleaned the leading and trailing spaces with the use of =TRIM(text) function in MS Excel
+5. I flagged the mandatory value that was missing to the HR unit
 
 ### To Explore Further
 
