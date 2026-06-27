@@ -144,13 +144,14 @@ I opened the SalesTable in the tracker sheet, and I sorted the revenue field in 
 3. I then filter the Table with the insight I got from earlier sort operation to get all the  transaction that happened in each hub
 4. I make use of =SUMIF() function to calculate the total order value in the hub so as to discover the hub that generated the highest order value.
 5. I make use of =COUNTIF() to find the number of the orders which has "Delivered" as their Status, I also used COUNTA() to get the total number of Status and then divide then output of COUNTIF() by the output of COUNTA() so as to calculate the percentage of deliveries that were on time.
+6. I make use of =AVERAGEIF() function to find the average of the order value if the customer type is B2B or B2C
 
 ### To Explore Further
 
 - [x] Excel Formulas
 - [x] Excel Functions - SUMIF()
 - [x] Excel Functions - COUNT(), COUNTA(), and COUNTIF()
-- [ ] Excel Functions - AVERAGEIF()
+- [x] Excel Functions - AVERAGEIF()
 
 ---
 
