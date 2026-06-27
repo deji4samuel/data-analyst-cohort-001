@@ -12,10 +12,11 @@
 
 1. I inspect the data and remove the duplicates
 2. I used =PROPER(text) to capitalise all the the first letters of the names
+3. I standardise Date column with format on MS excel
 
 ### To Explore Further
 
-- [ ] Standardize Date Column
+- [x] Standardize Date Column
 - [ ] Cleaning of leading and trailing spaces
 - [ ] Discovering the impossible values
 
