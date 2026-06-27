@@ -15,12 +15,13 @@
 3. I standardise Date column with format on MS excel
 4. I cleaned the leading and trailing spaces with the use of =TRIM(text) function in MS Excel
 5. I flagged the mandatory value that was missing to the HR unit
+6. I flagged the impossible values (negative salary) to the HR
 
 ### To Explore Further
 
 - [x] Standardize Date Column
 - [x] Cleaning of leading and trailing spaces
-- [ ] Discovering the impossible values
+- [x] Discovering the impossible values
 
 ---
 
