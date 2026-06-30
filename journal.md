@@ -11,10 +11,11 @@
 ### What I Did
 
 1. I created a line chart using the data supplied with one of the variables (A&E) to reflect the trend of customers waiting times over the period of six (6) months, by highlighting the months row and A&E rows and select INSERT from the menu bar and then select line chart from the charts options
+2. I added additional line by RIGHT clicking on the chart and Select Data Source and then click. '+' sign under Legend entries (series) to add additional line. I also selected the series I wanted to add bby writing the formula =Hosp!$B$5:$G$5 into the Y values
 
 ### To Explore Further
 
-- [ ] Adding additional line to the same chart
+- [x] Adding additional line to the same chart
 - [ ] Changing the chart title
 - [ ] Formatting the chart legend
 - [ ] Making use of the named range in the chart
