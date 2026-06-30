@@ -14,6 +14,7 @@
 2. I added additional line by RIGHT clicking on the chart and Select Data Source and then click. '+' sign under Legend entries (series) to add additional line. I also selected the series I wanted to add by writing the formula =Hosp!$B$5:$G$5 into the Y values
 3. To change the chart title, I double clicked on the Title of the chart so as to edit it.
 4. I formatted the chart legend by RIGHT clicking on the chart and Select Data Source and then edit the chart legend under Legend entries (series).
+5. I explore other chart by right clicking the chart and selected change chart type, and I selected Colums from the options
 
 ### To Explore Further
 
