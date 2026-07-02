@@ -11,7 +11,7 @@ The journal is the main progress record for this repository. It shows what I stu
 ## Program Summary
 
 This repository documents my practical journey toward data analyst job readiness. The program is built around business-facing analysis, spreadsheet modelling, SQL, Python, Power BI, statistics, portfolio projects, and interview preparation.
-The goal is not only to complete lessons, but to produce visible evidence that I can take messy business questions, inspect the data, clean and model it, analyse it with the right tools, and communicate findings clearly.
+The goal is not only to complete lessons, but to produce visible evidence of business questioning, data inspection, cleaning, modelling, analysis, and clear communication.
 
 ## Target Roles
 
@@ -71,11 +71,11 @@ The goal is not only to complete lessons, but to produce visible evidence that I
 
 ## What This Repository Proves
 
-- I can turn vague business questions into structured analysis tasks.
-- I can profile, clean, and validate data before trusting conclusions.
-- I can use Excel, SQL, Python, and Power BI in a connected workflow.
-- I can document my decisions clearly enough for another person to review.
-- I can build a portfolio that shows progress, not just final screenshots.
+- Vague business questions are turned into structured analysis tasks.
+- Data is profiled, cleaned, and validated before conclusions are trusted.
+- Excel, SQL, Python, and Power BI are used in a connected analysis workflow.
+- Decisions are documented clearly enough for another person to review.
+- The portfolio shows learning progress, not just final screenshots.
 
 ---
 
