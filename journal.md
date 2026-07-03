@@ -95,6 +95,6 @@ wrong chart type
 
 ### To Explore Further
 
-
+- [ ] Mastering documentation
 
 ---
