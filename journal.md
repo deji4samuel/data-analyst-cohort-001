@@ -81,3 +81,17 @@ wrong chart type
 - The final output and the charts
 
 ---
+
+## Day 2 — Review: Workbook setup, tables, sorting, filtering, and named ranges
+
+**Phase:** Excel
+
+### What I Did
+
+- **Built:** I was able to understand that setting up and excel workbook is the basis of analysing data with Excel.
+
+### To Explore Further
+
+
+
+---
