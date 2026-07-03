@@ -17,7 +17,9 @@
 - **Reflected:** I filter the data as required
 - **Next proof:** I make use of a named range on a column and calculated its total sum
 - **Note:** I inspect the data and remove the duplicates
-- **Applied:** I used =PROPER(text) to capitalise all the the first letters of the names
+- **Applied:** I used `=PROPER(text)` to capitalise all the the first letters of the names
+- **Note:** I standardise Date column with format on MS excel
+- **Note:** I cleaned the leading and trailing spaces with the use of `=TRIM(text)` function in MS Excel
 
 ### To Explore Further
 
