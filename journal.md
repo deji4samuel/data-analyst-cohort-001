@@ -1,6 +1,6 @@
 # Data Analyst Job-Ready Learning Journal
 
-> Last updated: 3 July 2026
+> Last updated: 4 July 2026
 
 ---
 
@@ -26,5 +26,58 @@
 ### To Explore Further
 
 
+
+### My Practice Work
+
+---
+<!-- framework:solve -->
+
+## Portfolio proof: Workbook setup, tables, sorting, filtering, and named ranges
+**Completed:** 2026-07-03 | **Method:** SOLVE
+
+> **Scenario:** Sector: Multi-industry
+> 
+> Scenario: A recruiter finds your GitHub profile at 9 pm before an interview shortlist decision. They have 90 seconds. If your README does not immediately prove you can do the job, they move to the next candidate. Your portfolio evidence from this week must pass that test.
+
+### S — Split the problem
+- A recruiter finds your GitHub profile at 9 pm before an interview shortlist decision
+They have 90 seconds
+README must show real proof of competency
+This week's portfolio must proof competency
+
+- A recruiter is the audience.
+README is the data.
+README content is the visual decision
+90 seconds is the time required to decide
+
+- The workbook created for the week consist of sheets such as 'Raw Data,' 'Tracker,' and 'Notes.'
+
+### O — Observe the data
+- A dataset in form of rows and columns
+
+- Table
+Chart
+Named range
+
+- Wrong chart type
+
+### V — Verify your logic
+- Sort
+Filter
+SUM()
+COUNTIF()
+
+- Comparing with the expected values
+
+- unclear label
+wrong calculation
+wrong chart type
+
+### E — Evolve the solution
+- Layout
+
+- README
+
+- The final output and the charts
 
 ---
