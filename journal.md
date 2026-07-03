@@ -14,6 +14,8 @@
 - **Explained:** I have learned how to clone a repo with VS Code using git clone command
 - **Explained:** I converted Excel Spreadsheet into a Table and make it a named Table
 - **Verified:** I sort the data in the Table
+- **Reflected:** I filter the data as required
+- **Next proof:** I make use of a named range on a column and calculated its total sum
 
 ### To Explore Further
 
