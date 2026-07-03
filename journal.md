@@ -90,6 +90,7 @@ wrong chart type
 
 - **Built:** I was able to understand that setting up and excel workbook is the basis of analysing data with Excel.
 - **Applied:** I learnt that making use of different sheet for Raw Data support traceability and protect the original data
+- **Explained:** I learnt that making use of named Table make referenceing easier and both sorting and filter are straight forward
 
 ### To Explore Further
 
