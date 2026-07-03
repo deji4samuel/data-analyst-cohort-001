@@ -16,6 +16,8 @@
 - **Verified:** I sort the data in the Table
 - **Reflected:** I filter the data as required
 - **Next proof:** I make use of a named range on a column and calculated its total sum
+- **Note:** I inspect the data and remove the duplicates
+- **Applied:** I used =PROPER(text) to capitalise all the the first letters of the names
 
 ### To Explore Further
 
