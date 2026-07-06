@@ -8,35 +8,14 @@
 
 The journal is the main progress record for this repository. It shows what I studied, what I built, what I fixed, and how my work improved across the program.
 
-<<<<<<< HEAD
-<!-- qode-clarity:data-analyst-job-ready:journal-link:end -->
+## Latest Weekly Proof
 
+Use this section as the quick recruiter review path. The newest weekly proof should link to the artefact, screenshot, command output, dashboard, query result, or architecture note that proves the work is real.
 
-Week 1 Branch Transactions short README
+| Week | Proof | Evidence link | Review note |
+| --- | --- | --- | --- |
+| Latest | See [`journal.md`](journal.md) for the newest entry | Add project or evidence link here | What changed, what was verified, and what to review next |
 
-
-# Branch transactions tracker workbook
-
-## The question
-What business problem or question did this project address?
-1. This project reveal the transaction with the highest value.
-2. It also shows that 50% of the transactions were not completed
-3. The project helped to know the total value of the the transaction.
-
-## The method
-What tool and approach did you use? (e.g. Excel pivot tables, SQL aggregation, Power BI dashboard)
-MS Excel was used to complete the project. This was used to create the table, create a named range, sort and filter the table. It is also used to calculate the sum of a named range. 
-
-## The result
-What did you find? One or two sentences with the actual numbers.
-1. The largest transaction was TXN007 with total value of £12,500
-2. 4 out of the 8 Transaction are still not competed. 2 of which are under review and the other 2 are pending
-3. The total sum of the Transaction is £30,010
-
-## Files
-- `datasets/` — raw and cleaned data
-- `screenshots/week-01-branch-transaction-output`
-=======
 ## Program Summary
 
 This repository documents my practical journey toward data analyst job readiness. The program is built around business-facing analysis, spreadsheet modelling, SQL, Python, Power BI, statistics, portfolio projects, and interview preparation.
@@ -98,6 +77,56 @@ The goal is not only to complete lessons, but to produce visible evidence of bus
 3. Inspect the notes and source folders for tool-specific evidence.
 4. Check screenshots or outputs for visible proof of completed work.
 
+## Project Review Rubric
+
+| Area | What good evidence should show |
+| --- | --- |
+| Problem framing | The business or technical problem is stated clearly before the solution. |
+| Reproducibility | A reviewer can find the files, run or inspect the work, and understand the setup. |
+| Correctness | Outputs are validated with checks, screenshots, query results, logs, tests, or reconciliations. |
+| Professional judgement | Trade-offs, assumptions, limitations, and next improvements are documented. |
+| Communication | The README, journal, and project notes explain the work in plain language. |
+
+## Interview Defense Prompts
+
+Use these prompts to practise explaining any project in this repository:
+
+- What problem did this project solve, and who would use the result?
+- What input data, files, services, or assumptions did the work depend on?
+- What validation proves the output is correct enough to trust?
+- What failed, changed, or needed debugging while building it?
+- What would be improved next for reliability, scale, cost, or usability?
+
+## Peer Review Checklist
+
+Use this checklist for capstones, portfolio projects, or cohort review sessions:
+
+- Can a reviewer understand the problem in under one minute?
+- Are the main files, commands, screenshots, or outputs easy to find?
+- Does the project show validation rather than only a final result?
+- Are assumptions, limitations, and next improvements written down?
+- Is there one clear question the reviewer should answer after reading the project?
+
+## Mock Interview Prompts
+
+Use the latest evidence in `journal.md` to answer these out loud:
+
+- Walk me through the most recent thing you built.
+- Show me the file, query, dashboard, pipeline, or screenshot that proves it worked.
+- What bug, data issue, or design trade-off did you handle?
+- How would this work change if the data volume, users, or failure risk increased?
+- What would you do differently if this were going into production?
+
+## Final Portfolio Package
+
+Before sharing this repository with a recruiter or interviewer, the strongest version should include:
+
+- A concise `journal.md` with recent weekly evidence and reflection.
+- At least one finished project folder with source files, outputs, and setup notes.
+- Screenshots, logs, query results, dashboard exports, or terminal output that prove the work ran.
+- A project README that explains the problem, approach, validation, limitations, and next improvement.
+- Interview notes that connect the work to the target role.
+
 ## What This Repository Proves
 
 - Vague business questions are turned into structured analysis tasks.
@@ -107,4 +136,3 @@ The goal is not only to complete lessons, but to produce visible evidence of bus
 - The portfolio shows learning progress, not just final screenshots.
 
 ---
->>>>>>> e553ad85caf4216bc081f227c68c60a1a4c69d48
