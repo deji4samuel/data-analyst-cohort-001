@@ -472,7 +472,7 @@ wrong chart type
 | --- | --- |
 | Lesson slug | `da-week-02-learn` |
 | Phase | Excel |
-| Saved/updated | 06 Jul 2026, 22:29 |
+| Saved/updated | 06 Jul 2026, 22:31 |
 | Completed tasks | 2 |
 | Lesson complete | In progress |
 
@@ -481,11 +481,15 @@ wrong chart type
 - **Built:** I learnt about the types of data analysis which comprises of Descriptive, Diagnostic, Predictive  & Prescriptive.
 - **Applied:** I had an overview of the tools and techniques being used for data analytics projects which includes SQL, Excel/Sheets, Dashboards and Python/R
 - **Explained:** I study to understand the use of SUM and AVERAGE function from https://support.microsoft.com/en-us/excel/
+- **Verified:** I study to understand the use of IFfunction from https://support.microsoft.com/en-us/excel/
+- **Reflected:** I study to understand the use of COUNTIFS function from https://support.microsoft.com/en-us/excel/
+- **Next proof:** I study to understand the use of XLOOKUP from https://support.microsoft.com/en-us/excel/
 
 ### To Explore Further
 
 - [x] SUM and AVERAGE Function
-- [ ] COUNT() and COUNTIFS() Function
-- [ ] IF() Function
+- [x] COUNT() and COUNTIFS() Function
+- [x] IF() Function
+- [x] XLOOKUP() Function
 
 ---
