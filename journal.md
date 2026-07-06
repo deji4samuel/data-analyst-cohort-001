@@ -472,8 +472,8 @@ wrong chart type
 | --- | --- |
 | Lesson slug | `da-week-02-learn` |
 | Phase | Excel |
-| Saved/updated | 06 Jul 2026, 22:31 |
-| Completed tasks | 2 |
+| Saved/updated | 06 Jul 2026, 22:33 |
+| Completed tasks | 4 |
 | Lesson complete | In progress |
 
 ### What I Did
@@ -490,6 +490,6 @@ wrong chart type
 - [x] SUM and AVERAGE Function
 - [x] COUNT() and COUNTIFS() Function
 - [x] IF() Function
-- [x] XLOOKUP() Function
+- [ ] XLOOKUP() Function
 
 ---
