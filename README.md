@@ -8,8 +8,6 @@
 
 The journal is the main progress record for this repository. It shows what I studied, what I built, what I fixed, and how my work improved across the program.
 
-<<<<<<< HEAD
-=======
 ## Latest Weekly Proof
 
 Use this section as the quick recruiter review path. The newest weekly proof should link to the artefact, screenshot, command output, dashboard, query result, or architecture note that proves the work is real.
@@ -18,7 +16,6 @@ Use this section as the quick recruiter review path. The newest weekly proof sho
 | --- | --- | --- | --- |
 | Latest | See [`journal.md`](journal.md) for the newest entry | Add project or evidence link here | What changed, what was verified, and what to review next |
 
->>>>>>> 8e672fcbe7d0b22e5aac7432e12df0821e164ba3
 ## Program Summary
 
 This repository documents my practical journey toward data analyst job readiness. The program is built around business-facing analysis, spreadsheet modelling, SQL, Python, Power BI, statistics, portfolio projects, and interview preparation.
