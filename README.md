@@ -8,35 +8,6 @@
 
 The journal is the main progress record for this repository. It shows what I studied, what I built, what I fixed, and how my work improved across the program.
 
-<<<<<<< HEAD
-<!-- qode-clarity:data-analyst-job-ready:journal-link:end -->
-
-
-Week 1 Branch Transactions short README
-
-
-# Branch transactions tracker workbook
-
-## The question
-What business problem or question did this project address?
-1. This project reveal the transaction with the highest value.
-2. It also shows that 50% of the transactions were not completed
-3. The project helped to know the total value of the the transaction.
-
-## The method
-What tool and approach did you use? (e.g. Excel pivot tables, SQL aggregation, Power BI dashboard)
-MS Excel was used to complete the project. This was used to create the table, create a named range, sort and filter the table. It is also used to calculate the sum of a named range. 
-
-## The result
-What did you find? One or two sentences with the actual numbers.
-1. The largest transaction was TXN007 with total value of £12,500
-2. 4 out of the 8 Transaction are still not competed. 2 of which are under review and the other 2 are pending
-3. The total sum of the Transaction is £30,010
-
-## Files
-- `datasets/` — raw and cleaned data
-- `screenshots/week-01-branch-transaction-output`
-=======
 ## Program Summary
 
 This repository documents my practical journey toward data analyst job readiness. The program is built around business-facing analysis, spreadsheet modelling, SQL, Python, Power BI, statistics, portfolio projects, and interview preparation.
@@ -107,4 +78,3 @@ The goal is not only to complete lessons, but to produce visible evidence of bus
 - The portfolio shows learning progress, not just final screenshots.
 
 ---
->>>>>>> e553ad85caf4216bc081f227c68c60a1a4c69d48
