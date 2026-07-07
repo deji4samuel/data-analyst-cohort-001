@@ -472,7 +472,7 @@ wrong chart type
 | --- | --- |
 | Lesson slug | `da-week-02-learn` |
 | Phase | Excel |
-| Saved/updated | 07 Jul 2026, 15:07 |
+| Saved/updated | 07 Jul 2026, 15:11 |
 | Completed tasks | 6 |
 | Lesson complete | In progress |
 
@@ -484,6 +484,7 @@ wrong chart type
 - **Verified:** I study to understand the use of IFfunction from https://support.microsoft.com/en-us/excel/
 - **Reflected:** I study to understand the use of COUNTIFS function from https://support.microsoft.com/en-us/excel/
 - **Next proof:** I study to understand the use of XLOOKUP from https://support.microsoft.com/en-us/excel/
+- **Note:** I practiced the use of Nested IF on tables to gain more understanding
 
 ### To Explore Further
 
@@ -491,7 +492,7 @@ wrong chart type
 - [x] COUNT() and COUNTIFS() Function
 - [x] IF() Function
 - [x] XLOOKUP() Function
-- [ ] Nested IF()
+- [x] Nested IF()
 - [ ] Application of the Functions learnt
 
 ---
