@@ -1,6 +1,6 @@
 # Data Analyst Job-Ready Learning Journal
 
-> Last updated: 6 July 2026
+> Last updated: 7 July 2026
 
 ---
 
@@ -472,8 +472,8 @@ wrong chart type
 | --- | --- |
 | Lesson slug | `da-week-02-learn` |
 | Phase | Excel |
-| Saved/updated | 06 Jul 2026, 22:33 |
-| Completed tasks | 4 |
+| Saved/updated | 07 Jul 2026, 15:07 |
+| Completed tasks | 6 |
 | Lesson complete | In progress |
 
 ### What I Did
@@ -490,6 +490,8 @@ wrong chart type
 - [x] SUM and AVERAGE Function
 - [x] COUNT() and COUNTIFS() Function
 - [x] IF() Function
-- [ ] XLOOKUP() Function
+- [x] XLOOKUP() Function
+- [ ] Nested IF()
+- [ ] Application of the Functions learnt
 
 ---
