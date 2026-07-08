@@ -12,7 +12,7 @@
 | --- | ---: | ---: | --- |
 | [Week 1: Day 1: Workspace Setup](#week-1-day-1-workspace-setup) | 1 | 1 | 25 Jun 2026, 21:16 |
 | [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 04 Jul 2026, 00:47 |
-| [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 1 | 0 | 08 Jul 2026, 23:23 |
+| [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 1 | 0 | 08 Jul 2026, 23:58 |
 
 ---
 
@@ -484,7 +484,7 @@ wrong chart type
 | --- | --- |
 | Lesson slug | `da-week-02-learn` |
 | Phase | Excel |
-| Saved/updated | 08 Jul 2026, 23:23 |
+| Saved/updated | 08 Jul 2026, 23:58 |
 | Completed tasks | 11 |
 | Lesson complete | In progress |
 
@@ -547,5 +547,68 @@ XLOOKUP
 COUNTIFS
 IF
 AVERAGE
+
+- Manual calculation shows the same result
+
+- Bad calculation
+Unclear label
+
+### E — Evolve the solution
+- Layouts
+
+- Taking note of changes implemented along the line
+
+- Screen shot
+
+
+---
+<!-- framework:five-how -->
+
+## Learn: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, and XLOOKUP
+**Completed:** 2026-07-08 | **Method:** 5-HOW
+
+> **Scenario:** Sector: Sales & Commission
+> 
+> Scenario: A sales director needs to calculate weekly commissions for 8 reps across four regions. Each rep earns a different rate depending on whether they hit, exceeded, or missed their target. She also needs to look up each rep's regional manager from a separate table — without typing the name manually.
+
+### Write it — code the solution
+- I set up a workbook and created SalesData, Calculator and Notes sheets in Excel; I created a named table called SalesTable in the Calculator Sheet. In the Notes sheet.
+
+- I used the formula `=SUM()` to get the total sum of the sales and also used the formula `=AVERAGE()` to get the average (arithmetic mean) of the sales.
+I make use of =PRODUCT() to find the product of commission on each sale.
+I make use of COUNTIFS() to count the number of "Saas" product based on the condition that the sales is over 40,000.00
+I make use of IF() to obtain the percentage of the commission on each sale.
+I make use of XLOOKUP to obtain the regional manager for each region.
+I make use of VLOOKUP to get the regional manager for each region.
+
+- Sales and Target ranges
+
+### Explain it — pseudocode
+1. Start with SalesTable
+2. Find the total sum of the sales
+3. Find the average of the sales
+4. Count the number of SaaS product with sales value above 40,000
+5. Assign commission percentage if the sales beat target by certain percentages
+6. Calculate the commission on each sale.
+7. Get the regional manager for each region
+
+### Compare it — analogy
+**My analogy:** Counting items based on ratings
+
+**Why it works:** Counting items with 5-star rating is like using COUNTIF() to count the number of items' occurrences based on a condition
+
+**Where it breaks down:** You cannot manually be checking each of the items weather they meet certain condition or not
+
+### Use it — job story
+**My role:** Data Analyst in a retail company
+
+**The problem:** How many SaaS product sales exceed 40,000
+
+I opened the SalesTable in the calculator sheet, and I make use of the COUNTIFS() function on the product field with the condition that the value should be SaaS. I also add another criteria which is to count the number of rows where the sales is above 40,000.
+
+### See it — expected output
+- The spreadsheet has 8 rows with 6 columns
+
+- A table
 
 ---
