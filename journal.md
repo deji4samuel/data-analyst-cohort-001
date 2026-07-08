@@ -1,6 +1,6 @@
 # Data Analyst Job-Ready Learning Journal
 
-> Last updated: 8 July 2026
+> Last updated: 9 July 2026
 
 ## Summary
 
@@ -12,7 +12,7 @@
 | --- | ---: | ---: | --- |
 | [Week 1: Day 1: Workspace Setup](#week-1-day-1-workspace-setup) | 1 | 1 | 25 Jun 2026, 21:16 |
 | [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 04 Jul 2026, 00:47 |
-| [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 1 | 0 | 08 Jul 2026, 23:58 |
+| [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 1 | 0 | 09 Jul 2026, 00:32 |
 
 ---
 
@@ -484,7 +484,7 @@ wrong chart type
 | --- | --- |
 | Lesson slug | `da-week-02-learn` |
 | Phase | Excel |
-| Saved/updated | 08 Jul 2026, 23:58 |
+| Saved/updated | 09 Jul 2026, 00:32 |
 | Completed tasks | 11 |
 | Lesson complete | In progress |
 
@@ -610,5 +610,25 @@ I opened the SalesTable in the calculator sheet, and I make use of the COUNTIFS(
 - The spreadsheet has 8 rows with 6 columns
 
 - A table
+
+### Try it — Scenario 1
+> Finance has an Orders spreadsheet and wants to know: "What's the total sales value for the Electronics category only?"
+> 
+> Write a SUMIF formula that sums `order_value` where `product_category` equals "Electronics".
+
+- I copied the raw file and pasted it into the Excel sheet. I opened another sheet in the same workbook and named it Calculator, where I carried out all the required calculations. I highlighted the whole dataset and made it an Excel table by clicking Insert in the menu and selecting Table.
+
+- SUMIF(OrdersTable[product_category],"Electronics",OrderTable[order_value])
+
+- The total value of orders where the product category is Electronics
+
+### Try it — Scenario 2
+> Your manager needs customer cities added to the orders sheet: "Can you pull in each customer's city from the Customers tab, matched by customer_id?"
+> 
+> Write an XLOOKUP (or VLOOKUP) formula that looks up customer_id in the Customers sheet and returns the city column.
+
+- =XLOOKUP(orders![customer_id],Customers!Customer[customer_id],Customers!Customer[city]," ")
+
+- List of cities
 
 ---
