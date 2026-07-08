@@ -1,6 +1,18 @@
 # Data Analyst Job-Ready Learning Journal
 
-> Last updated: 7 July 2026
+> Last updated: 8 July 2026
+
+## Summary
+
+- Track: Data Analyst Job-Ready
+- Weeks with evidence: 3
+- Lesson entries captured: 9
+
+| Week | Evidence entries | Completed | Last updated |
+| --- | ---: | ---: | --- |
+| [Week 1: Day 1: Workspace Setup](#week-1-day-1-workspace-setup) | 1 | 1 | 25 Jun 2026, 21:16 |
+| [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 04 Jul 2026, 00:47 |
+| [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 1 | 0 | 08 Jul 2026, 23:23 |
 
 ---
 
@@ -38,7 +50,7 @@
 
 ---
 
-## Week 2: Week 1: Workbook setup, tables, sorting, filtering, and named r
+## Week 1: Workbook setup, tables, sorting, filtering, and named r
 
 ### Lesson 1: Learn: Workbook setup, tables, sorting, filtering, and named ranges
 
@@ -464,7 +476,7 @@ wrong chart type
 
 ---
 
-## Week 3: Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a
+## Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a
 
 ### Lesson 1: Learn: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, and XLOOKUP
 
@@ -472,8 +484,8 @@ wrong chart type
 | --- | --- |
 | Lesson slug | `da-week-02-learn` |
 | Phase | Excel |
-| Saved/updated | 07 Jul 2026, 15:11 |
-| Completed tasks | 6 |
+| Saved/updated | 08 Jul 2026, 23:23 |
+| Completed tasks | 11 |
 | Lesson complete | In progress |
 
 ### What I Did
@@ -485,6 +497,7 @@ wrong chart type
 - **Reflected:** I study to understand the use of COUNTIFS function from https://support.microsoft.com/en-us/excel/
 - **Next proof:** I study to understand the use of XLOOKUP from https://support.microsoft.com/en-us/excel/
 - **Note:** I practiced the use of Nested IF on tables to gain more understanding
+- **Note:** I was able to discovert the limitation of COUNTIFS function
 
 ### To Explore Further
 
@@ -493,6 +506,46 @@ wrong chart type
 - [x] IF() Function
 - [x] XLOOKUP() Function
 - [x] Nested IF()
-- [ ] Application of the Functions learnt
+- [x] Application of the Functions learnt
+
+### My Practice Work
+
+---
+<!-- framework:solve -->
+
+## Learn: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, and XLOOKUP
+**Completed:** 2026-07-08 | **Method:** SOLVE
+
+> **Scenario:** Sector: Sales & Commission
+> 
+> Scenario: A sales director needs to calculate weekly commissions for 8 reps across four regions. Each rep earns a different rate depending on whether they hit, exceeded, or missed their target. She also needs to look up each rep's regional manager from a separate table — without typing the name manually.
+
+### S — Split the problem
+- The sales director needs to calculate weekly commissions for 8 reps across four regions
+Each rep earns a different rate depending on whether they hit, exceeded, or missed their target
+She also needs to look up each rep's regional manager from a separate table
+Without typing the name manually.
+
+- The sales director is the audience
+The sales data and the information about the manager is the data
+The visualisation is in form of a table
+
+- The workbook has Raw data Sheet, Sales Data Sheet, Calculator Sheet and Notes Sheet
+
+### O — Observe the data
+- Workbook
+Formulas
+Targets
+
+- Table
+
+- Wrong use of formula or function
+
+### V — Verify your logic
+- SUM
+XLOOKUP
+COUNTIFS
+IF
+AVERAGE
 
 ---
