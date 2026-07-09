@@ -12,7 +12,7 @@
 | --- | ---: | ---: | --- |
 | [Week 1: Day 1: Workspace Setup](#week-1-day-1-workspace-setup) | 1 | 1 | 25 Jun 2026, 21:16 |
 | [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 04 Jul 2026, 00:47 |
-| [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 2 | 1 | 09 Jul 2026, 21:53 |
+| [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 2 | 1 | 09 Jul 2026, 21:55 |
 
 ---
 
@@ -639,7 +639,7 @@ I opened the SalesTable in the calculator sheet, and I make use of the COUNTIFS(
 | --- | --- |
 | Lesson slug | `da-week-02-practice` |
 | Phase | Excel |
-| Saved/updated | 09 Jul 2026, 21:53 |
+| Saved/updated | 09 Jul 2026, 21:55 |
 | Completed tasks | 1 |
 | Lesson complete | In progress |
 
@@ -649,11 +649,14 @@ I opened the SalesTable in the calculator sheet, and I make use of the COUNTIFS(
 - **Built:** I created GradeData and StudentContacts sheet as instructed
 - **Explained:** I converted Excel Spreadsheet into a Table and make it a named Table in a separate sheet so as to work on the data accordingly
 - **Verified:** I make use of AVERAGE() function to calculate the average score of each students in the table
+- **Reflected:** I make use of IFS() function instead of nested IF() to assign grade letters to the each student
+- **Applied:** I used COUNTIFS() function to count the number of students that score more than overall average in all 3 courses
 
 ### To Explore Further
 
 - [x] Apply AVERAGE Function
-- [ ] Apply IFS function
-- [ ] Apply COUNTIFS function
+- [x] Apply IFS function
+- [x] Apply COUNTIFS function
+- [ ] Apply XLOOKUP function
 
 ---
