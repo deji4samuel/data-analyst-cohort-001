@@ -12,7 +12,7 @@
 | --- | ---: | ---: | --- |
 | [Week 1: Day 1: Workspace Setup](#week-1-day-1-workspace-setup) | 1 | 1 | 25 Jun 2026, 21:16 |
 | [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 04 Jul 2026, 00:47 |
-| [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 3 | 2 | 13 Jul 2026, 14:36 |
+| [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 3 | 2 | 13 Jul 2026, 14:37 |
 
 ---
 
@@ -668,7 +668,7 @@ I opened the SalesTable in the calculator sheet, and I make use of the COUNTIFS(
 | --- | --- |
 | Lesson slug | `da-week-02-clean-validate` |
 | Phase | Excel |
-| Saved/updated | 13 Jul 2026, 14:36 |
+| Saved/updated | 13 Jul 2026, 14:37 |
 | Completed tasks | 3 |
 | Lesson complete | In progress |
 
@@ -676,6 +676,8 @@ I opened the SalesTable in the calculator sheet, and I make use of the COUNTIFS(
 
 - **Built:** I set up the work book and created sheets for Raw Data, Price Tracking and Notes
 - **Applied:** I inspect the data to check for the duplicates and missing values
+- **Explained:** The price for item PC002 was changed to 0 instead fo FREE, being a promotional item
+- **Verified:** I repalce the emopty price column with 0 and flag it to the sales team so they can review it.
 
 ### To Explore Further
 
