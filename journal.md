@@ -678,11 +678,12 @@ I opened the SalesTable in the calculator sheet, and I make use of the COUNTIFS(
 - **Applied:** I inspect the data to check for the duplicates and missing values
 - **Explained:** The price for item PC002 was changed to 0 instead fo FREE, being a promotional item
 - **Verified:** I repalce the emopty price column with 0 and flag it to the sales team so they can review it.
+- **Applied:** I used IFERROR function to trap all any attempt to divide by zeroo in the in the revenue formula column
 
 ### To Explore Further
 
 - [ ] IF Function
 - [ ] IF OR function
-- [ ] IFERROR Function
+- [x] IFERROR Function
 
 ---
