@@ -12,7 +12,7 @@
 | --- | ---: | ---: | --- |
 | [Week 1: Day 1: Workspace Setup](#week-1-day-1-workspace-setup) | 1 | 1 | 25 Jun 2026, 21:16 |
 | [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 04 Jul 2026, 00:47 |
-| [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 4 | 3 | 13 Jul 2026, 20:49 |
+| [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 4 | 3 | 13 Jul 2026, 20:53 |
 
 ---
 
@@ -697,7 +697,7 @@ I opened the SalesTable in the calculator sheet, and I make use of the COUNTIFS(
 | --- | --- |
 | Lesson slug | `da-week-02-analyze` |
 | Phase | Excel |
-| Saved/updated | 13 Jul 2026, 20:49 |
+| Saved/updated | 13 Jul 2026, 20:53 |
 | Completed tasks | 4 |
 | Lesson complete | In progress |
 
@@ -709,14 +709,16 @@ I opened the SalesTable in the calculator sheet, and I make use of the COUNTIFS(
 - **Verified:** I make use of AVERAGEIFS() to calculate the averages of based on multiple condition
 - **Applied:** I used SUMIFS() to calculate the total sum based on some conditions
 - **Next proof:** I make use of COUNTIFS to count the number of values based on some conditions
+- **Note:** I make us of IFERROR to trap the violation of mathematical and arithimetic operations
+- **Note:** I make use of XLOOKUP to search for a value in an array and return required values
 
 ### To Explore Further
 
 - [x] Use AVERAGEIFS
-- [ ] Use XLOOKUP
+- [x] Use XLOOKUP
 - [x] Use COUNTIFS
 - [x] Use SUMIFS
-- [ ] Use IFERROR
+- [x] Use IFERROR
 - [x] Use Sort on the table
 
 ---
