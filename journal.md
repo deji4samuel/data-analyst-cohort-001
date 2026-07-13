@@ -6,13 +6,13 @@
 
 - Track: Data Analyst Job-Ready
 - Weeks with evidence: 3
-- Lesson entries captured: 11
+- Lesson entries captured: 12
 
 | Week | Evidence entries | Completed | Last updated |
 | --- | ---: | ---: | --- |
 | [Week 1: Day 1: Workspace Setup](#week-1-day-1-workspace-setup) | 1 | 1 | 25 Jun 2026, 21:16 |
 | [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 04 Jul 2026, 00:47 |
-| [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 3 | 3 | 13 Jul 2026, 14:40 |
+| [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 4 | 3 | 13 Jul 2026, 20:17 |
 
 ---
 
@@ -688,5 +688,31 @@ I opened the SalesTable in the calculator sheet, and I make use of the COUNTIFS(
 - [x] IF Function
 - [x] IF OR function
 - [x] IFERROR Function
+
+---
+
+### Lesson 4: Analyze: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, and XLOOKUP
+
+| Field | Value |
+| --- | --- |
+| Lesson slug | `da-week-02-analyze` |
+| Phase | Excel |
+| Saved/updated | 13 Jul 2026, 20:17 |
+| Completed tasks | 4 |
+| Lesson complete | In progress |
+
+### What I Did
+
+- **Built:** I setup a workbook for this exercise and created different sheet for RawData, PropertyData and Notes
+- **Applied:** I Converted the dataset into an excel table for easy manipulation
+
+### To Explore Further
+
+- [ ] Use AVERAGEIFS
+- [ ] Use XLOOKUP
+- [ ] Use COUNTIFS
+- [ ] Use SUMIFS
+- [ ] Use IFERROR
+- [ ] Use Sort on the table
 
 ---
