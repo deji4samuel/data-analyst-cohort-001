@@ -12,7 +12,7 @@
 | --- | ---: | ---: | --- |
 | [Week 1: Day 1: Workspace Setup](#week-1-day-1-workspace-setup) | 1 | 1 | 25 Jun 2026, 21:16 |
 | [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 04 Jul 2026, 00:47 |
-| [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 3 | 2 | 13 Jul 2026, 14:39 |
+| [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 3 | 3 | 13 Jul 2026, 14:40 |
 
 ---
 
@@ -668,9 +668,9 @@ I opened the SalesTable in the calculator sheet, and I make use of the COUNTIFS(
 | --- | --- |
 | Lesson slug | `da-week-02-clean-validate` |
 | Phase | Excel |
-| Saved/updated | 13 Jul 2026, 14:39 |
-| Completed tasks | 3 |
-| Lesson complete | In progress |
+| Saved/updated | 13 Jul 2026, 14:40 |
+| Completed tasks | 5 |
+| Lesson complete | Yes |
 
 ### What I Did
 
@@ -681,11 +681,12 @@ I opened the SalesTable in the calculator sheet, and I make use of the COUNTIFS(
 - **Applied:** I used IFERROR function to trap all any attempt to divide by zeroo in the in the revenue formula column
 - **Next proof:** I repalce the NONE value in the dicount column with zero, being that there is no discount on that item
 - **Built:** I created the FinalPrice formula with IFERROR() function
+- **Note:** I add the QualityFlag Column to track the comleteness of the data quaulity check where I make use of IF OR statement so as to pass all the condition that should be fulfilled.
 
 ### To Explore Further
 
 - [x] IF Function
-- [ ] IF OR function
+- [x] IF OR function
 - [x] IFERROR Function
 
 ---
