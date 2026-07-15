@@ -1,18 +1,18 @@
 # Data Analyst Job-Ready Learning Journal
 
-> Last updated: 13 July 2026
+> Last updated: 15 July 2026
 
 ## Summary
 
 - Track: Data Analyst Job-Ready
 - Weeks with evidence: 3
-- Lesson entries captured: 12
+- Lesson entries captured: 13
 
 | Week | Evidence entries | Completed | Last updated |
 | --- | ---: | ---: | --- |
-| [Week 1: Day 1: Workspace Setup](#week-1-day-1-workspace-setup) | 1 | 1 | 25 Jun 2026, 21:16 |
-| [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 04 Jul 2026, 00:47 |
-| [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 4 | 3 | 13 Jul 2026, 20:53 |
+| [Week 1: Day 1: Workspace Setup](#week-1-day-1-workspace-setup) | 1 | 1 | 25 Jun 2026 at 21:16 |
+| [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 04 Jul 2026 at 00:47 |
+| [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 5 | 4 | 15 Jul 2026 at 14:18 |
 
 ---
 
@@ -24,16 +24,16 @@
 | --- | --- |
 | Lesson slug | `da-setup-day-1` |
 | Phase | Setup |
-| Saved/updated | 25 Jun 2026, 21:16 |
+| Saved/updated | 25 Jun 2026 at 21:16 |
 | Completed tasks | 10 |
 | Lesson complete | Yes |
 
 ### What I Did
 
 - **Explained:** I have learned how to create a repo on GitHub and invite collaborators.
-- **Applied:** I installed VS Code on my local laptop
-- **Explained:** I cloned the GitHub repo with my local workspace via VS code
-- **Verified:** I was able to create a local settings file named ".env.development."
+- **Note:** I installed VS Code on my local laptop
+- **Note:** I cloned the GitHub repo with my local workspace via VS code
+- **Note:** I was able to create a local settings file named ".env.development."
 - **Built:** I created required folders in the application base folder on my laptop
 - **Built:** Added .gitignore into the development environment
 - **Note:** I downloaded Python and intall it in the development environment
@@ -58,13 +58,13 @@
 | --- | --- |
 | Lesson slug | `da-week-01-learn` |
 | Phase | Excel |
-| Saved/updated | 25 Jun 2026, 21:34 |
+| Saved/updated | 25 Jun 2026 at 21:34 |
 | Completed tasks | 9 |
 | Lesson complete | Yes |
 
 ### What I Did
 
-- **Built:** I understand that raw data has to be kept intact and not edited. In other words, duplicate the raw data and work with the copied version
+- **Note:** I understand that raw data has to be kept intact and not edited. In other words, duplicate the raw data and work with the copied version
 - **Built:** I created an extra sheet so as to be documenting the insights I got I was filtering and sorting the data
 
 ### To Explore Further
@@ -79,18 +79,18 @@
 | --- | --- |
 | Lesson slug | `da-week-01-practice` |
 | Phase | Excel |
-| Saved/updated | 26 Jun 2026, 23:38 |
+| Saved/updated | 26 Jun 2026 at 23:38 |
 | Completed tasks | 4 |
 | Lesson complete | Yes |
 
 ### What I Did
 
-- **Built:** I set up Excel Workbook
-- **Applied:** I converted Excel Spreadsheet into a Table and make it a named Table
-- **Explained:** I sort the data in the Table
-- **Verified:** I filter the data as required
-- **Reflected:** I make use of a named range on a column and calculated its total sum
-- **Next proof:** I save the file with the required insight for further action
+- **Note:** I set up Excel Workbook
+- **Note:** I converted Excel Spreadsheet into a Table and make it a named Table
+- **Note:** I sort the data in the Table
+- **Note:** I filter the data as required
+- **Note:** I make use of a named range on a column and calculated its total sum
+- **Note:** I save the file with the required insight for further action
 - **Note:** I make use of some excel formula such as SUM to complete the task
 
 ### To Explore Further
@@ -193,18 +193,18 @@ I opened the SalesTable in the tracker sheet, and I sorted the revenue field in 
 | --- | --- |
 | Lesson slug | `da-week-01-clean-validate` |
 | Phase | Excel |
-| Saved/updated | 27 Jun 2026, 21:18 |
+| Saved/updated | 27 Jun 2026 at 21:18 |
 | Completed tasks | 4 |
 | Lesson complete | Yes |
 
 ### What I Did
 
-- **Built:** I inspect the data and remove the duplicates
+- **Note:** I inspect the data and remove the duplicates
 - **Applied:** I used =PROPER(text) to capitalise all the the first letters of the names
-- **Explained:** I standardise Date column with format on MS excel
-- **Verified:** I cleaned the leading and trailing spaces with the use of =TRIM(text) function in MS Excel
-- **Reflected:** I flagged the mandatory value that was missing to the HR unit
-- **Next proof:** I flagged the impossible values (negative salary) to the HR
+- **Note:** I standardise Date column with format on MS excel
+- **Note:** I cleaned the leading and trailing spaces with the use of =TRIM(text) function in MS Excel
+- **Note:** I flagged the mandatory value that was missing to the HR unit
+- **Note:** I flagged the impossible values (negative salary) to the HR
 
 ### To Explore Further
 
@@ -220,18 +220,18 @@ I opened the SalesTable in the tracker sheet, and I sorted the revenue field in 
 | --- | --- |
 | Lesson slug | `da-week-01-analyze` |
 | Phase | Excel |
-| Saved/updated | 27 Jun 2026, 22:20 |
+| Saved/updated | 27 Jun 2026 at 22:20 |
 | Completed tasks | 4 |
 | Lesson complete | Yes |
 
 ### What I Did
 
-- **Built:** I converted Excel Spreadsheet into a Table and make it a named Table
-- **Applied:** I sort the data in the Table with Value column to determine the Hub that has highest order value
-- **Explained:** I then filter the Table with the insight I got from earlier sort operation to get all the  transaction that happened in each hub
-- **Verified:** I make use of =SUMIF() function to calculate the total order value in the hub so as to discover the hub that generated the highest order value.
+- **Note:** I converted Excel Spreadsheet into a Table and make it a named Table
+- **Note:** I sort the data in the Table with Value column to determine the Hub that has highest order value
+- **Note:** I then filter the Table with the insight I got from earlier sort operation to get all the  transaction that happened in each hub
+- **Note:** I make use of =SUMIF() function to calculate the total order value in the hub so as to discover the hub that generated the highest order value.
 - **Applied:** I make use of =COUNTIF() to find the number of the orders which has "Delivered" as their Status, I also used COUNTA() to get the total number of Status and then divide then output of COUNTIF() by the output of COUNTA() so as to calculate the percentage of deliveries that were on time.
-- **Next proof:** I make use of =AVERAGEIF() function to find the average of the order value if the customer type is B2B or B2C
+- **Note:** I make use of =AVERAGEIF() function to find the average of the order value if the customer type is B2B or B2C
 - **Applied:** Making note of every change applied to a workbook is very important as it will help in case there would be need to trace back
 
 ### To Explore Further
@@ -249,7 +249,7 @@ I opened the SalesTable in the tracker sheet, and I sorted the revenue field in 
 | --- | --- |
 | Lesson slug | `da-week-01-visualize` |
 | Phase | Excel |
-| Saved/updated | 02 Jul 2026, 15:22 |
+| Saved/updated | 02 Jul 2026 at 15:22 |
 | Completed tasks | 4 |
 | Lesson complete | Yes |
 
@@ -257,9 +257,9 @@ I opened the SalesTable in the tracker sheet, and I sorted the revenue field in 
 
 - **Built:** I created a line chart using the data supplied with one of the variables (A&E) to reflect the trend of customers waiting times over the period of six (6) months, by highlighting the months row and A&E rows and select INSERT from the menu bar and then select line chart from the charts options
 - **Built:** I added additional line by RIGHT clicking on the chart and Select Data Source and then click. '+' sign under Legend entries (series) to add additional line. I also selected the series I wanted to add by writing the formula =Hosp!$B$5:$G$5 into the Y values
-- **Explained:** To change the chart title, I double clicked on the Title of the chart so as to edit it.
-- **Verified:** I formatted the chart legend by RIGHT clicking on the chart and Select Data Source and then edit the chart legend under Legend entries (series).
-- **Reflected:** I explore other chart by right clicking the chart and selected change chart type, and I selected Colums from the options
+- **Note:** To change the chart title, I double clicked on the Title of the chart so as to edit it.
+- **Note:** I formatted the chart legend by RIGHT clicking on the chart and Select Data Source and then edit the chart legend under Legend entries (series).
+- **Note:** I explore other chart by right clicking the chart and selected change chart type, and I selected Colums from the options
 - **Built:** I created a named range for all the rows involved and used them in the Line Chart by RIGHT clicking on the chart and Select Data Source and then click. '+' sign under Legend entries (series) to add additional line.I then added new line using named range by writing the formula =Hosp!AandE (note that AandE is a named range) into the Y values
 - **Built:** I wrote the summary of the chart showing that the A&E has the highest waiting time by this has been declining over the monthfor the the period of month being examined.
 
@@ -375,7 +375,7 @@ I formatted the chart legend by RIGHT clicking on the chart and Select Data Sour
 | --- | --- |
 | Lesson slug | `da-week-01-portfolio-proof` |
 | Phase | Excel |
-| Saved/updated | 04 Jul 2026, 00:16 |
+| Saved/updated | 04 Jul 2026 at 00:16 |
 | Completed tasks | 4 |
 | Lesson complete | Yes |
 
@@ -383,10 +383,10 @@ I formatted the chart legend by RIGHT clicking on the chart and Select Data Sour
 
 - **Explained:** I have learned how to create a repo on GitHub and invite collaborators.
 - **Explained:** I have learned how to clone a repo with VS Code using git clone command
-- **Explained:** I converted Excel Spreadsheet into a Table and make it a named Table
-- **Verified:** I sort the data in the Table
-- **Reflected:** I filter the data as required
-- **Next proof:** I make use of a named range on a column and calculated its total sum
+- **Note:** I converted Excel Spreadsheet into a Table and make it a named Table
+- **Note:** I sort the data in the Table
+- **Note:** I filter the data as required
+- **Note:** I make use of a named range on a column and calculated its total sum
 - **Note:** I inspect the data and remove the duplicates
 - **Applied:** I used `=PROPER(text)` to capitalise all the the first letters of the names
 - **Note:** I standardise Date column with format on MS excel
@@ -459,15 +459,15 @@ wrong chart type
 | --- | --- |
 | Lesson slug | `da-week-01-review` |
 | Phase | Excel |
-| Saved/updated | 04 Jul 2026, 00:47 |
+| Saved/updated | 04 Jul 2026 at 00:47 |
 | Completed tasks | 4 |
 | Lesson complete | Yes |
 
 ### What I Did
 
-- **Built:** I was able to understand that setting up and excel workbook is the basis of analysing data with Excel.
-- **Applied:** I learnt that making use of different sheet for Raw Data support traceability and protect the original data
-- **Explained:** I learnt that making use of named Table make referencing easier and both sorting and filter are straight forward
+- **Note:** I was able to understand that setting up and excel workbook is the basis of analysing data with Excel.
+- **Note:** I learnt that making use of different sheet for Raw Data support traceability and protect the original data
+- **Note:** I learnt that making use of named Table make referencing easier and both sorting and filter are straight forward
 - **Applied:** I learnt that making use of named range make referencing easier as excel formula and functions can be applied directly on the named range.
 
 ### To Explore Further
@@ -484,18 +484,18 @@ wrong chart type
 | --- | --- |
 | Lesson slug | `da-week-02-learn` |
 | Phase | Excel |
-| Saved/updated | 09 Jul 2026, 00:32 |
+| Saved/updated | 09 Jul 2026 at 00:32 |
 | Completed tasks | 12 |
 | Lesson complete | Yes |
 
 ### What I Did
 
-- **Built:** I learnt about the types of data analysis which comprises of Descriptive, Diagnostic, Predictive  & Prescriptive.
+- **Note:** I learnt about the types of data analysis which comprises of Descriptive, Diagnostic, Predictive  & Prescriptive.
 - **Applied:** I had an overview of the tools and techniques being used for data analytics projects which includes SQL, Excel/Sheets, Dashboards and Python/R
-- **Explained:** I study to understand the use of SUM and AVERAGE function from https://support.microsoft.com/en-us/excel/
-- **Verified:** I study to understand the use of IFfunction from https://support.microsoft.com/en-us/excel/
-- **Reflected:** I study to understand the use of COUNTIFS function from https://support.microsoft.com/en-us/excel/
-- **Next proof:** I study to understand the use of XLOOKUP from https://support.microsoft.com/en-us/excel/
+- **Note:** I study to understand the use of SUM and AVERAGE function from https://support.microsoft.com/en-us/excel/
+- **Note:** I study to understand the use of IFfunction from https://support.microsoft.com/en-us/excel/
+- **Note:** I study to understand the use of COUNTIFS function from https://support.microsoft.com/en-us/excel/
+- **Note:** I study to understand the use of XLOOKUP from https://support.microsoft.com/en-us/excel/
 - **Note:** I practiced the use of Nested IF on tables to gain more understanding
 - **Note:** I was able to discovert the limitation of COUNTIFS function
 
@@ -639,17 +639,17 @@ I opened the SalesTable in the calculator sheet, and I make use of the COUNTIFS(
 | --- | --- |
 | Lesson slug | `da-week-02-practice` |
 | Phase | Excel |
-| Saved/updated | 11 Jul 2026, 16:24 |
+| Saved/updated | 11 Jul 2026 at 16:24 |
 | Completed tasks | 5 |
 | Lesson complete | Yes |
 
 ### What I Did
 
-- **Built:** I setup a workbook for the project
+- **Note:** I setup a workbook for the project
 - **Built:** I created GradeData and StudentContacts sheet as instructed
-- **Explained:** I converted Excel Spreadsheet into a Table and make it a named Table in a separate sheet so as to work on the data accordingly
-- **Verified:** I make use of AVERAGE() function to calculate the average score of each students in the table
-- **Reflected:** I make use of IFS() function instead of nested IF() to assign grade letters to the each student
+- **Note:** I converted Excel Spreadsheet into a Table and make it a named Table in a separate sheet so as to work on the data accordingly
+- **Note:** I make use of AVERAGE() function to calculate the average score of each students in the table
+- **Note:** I make use of IFS() function instead of nested IF() to assign grade letters to the each student
 - **Applied:** I used COUNTIFS() function to count the number of students that score more than overall average in all 3 courses
 - **Applied:** I used XLOOKUP() function to add the email of the students from another table in another sheet.
 
@@ -668,18 +668,18 @@ I opened the SalesTable in the calculator sheet, and I make use of the COUNTIFS(
 | --- | --- |
 | Lesson slug | `da-week-02-clean-validate` |
 | Phase | Excel |
-| Saved/updated | 13 Jul 2026, 14:40 |
+| Saved/updated | 13 Jul 2026 at 14:40 |
 | Completed tasks | 5 |
 | Lesson complete | Yes |
 
 ### What I Did
 
 - **Built:** I set up the work book and created sheets for Raw Data, Price Tracking and Notes
-- **Applied:** I inspect the data to check for the duplicates and missing values
-- **Explained:** The price for item PC002 was changed to 0 instead fo FREE, being a promotional item
-- **Verified:** I repalce the emopty price column with 0 and flag it to the sales team so they can review it.
+- **Note:** I inspect the data to check for the duplicates and missing values
+- **Note:** The price for item PC002 was changed to 0 instead fo FREE, being a promotional item
+- **Note:** I repalce the emopty price column with 0 and flag it to the sales team so they can review it.
 - **Applied:** I used IFERROR function to trap all any attempt to divide by zeroo in the in the revenue formula column
-- **Next proof:** I repalce the NONE value in the dicount column with zero, being that there is no discount on that item
+- **Note:** I repalce the NONE value in the dicount column with zero, being that there is no discount on that item
 - **Built:** I created the FinalPrice formula with IFERROR() function
 - **Note:** I add the QualityFlag Column to track the comleteness of the data quaulity check where I make use of IF OR statement so as to pass all the condition that should be fulfilled.
 
@@ -697,18 +697,18 @@ I opened the SalesTable in the calculator sheet, and I make use of the COUNTIFS(
 | --- | --- |
 | Lesson slug | `da-week-02-analyze` |
 | Phase | Excel |
-| Saved/updated | 13 Jul 2026, 20:53 |
-| Completed tasks | 4 |
-| Lesson complete | In progress |
+| Saved/updated | 13 Jul 2026 at 20:55 |
+| Completed tasks | 5 |
+| Lesson complete | Yes |
 
 ### What I Did
 
 - **Built:** I setup a workbook for this exercise and created different sheet for RawData, PropertyData and Notes
-- **Applied:** I Converted the dataset into an excel table for easy manipulation
-- **Explained:** I sort the table to determine the table to determine the properties overasking prices
-- **Verified:** I make use of AVERAGEIFS() to calculate the averages of based on multiple condition
+- **Note:** I Converted the dataset into an excel table for easy manipulation
+- **Note:** I sort the table to determine the table to determine the properties overasking prices
+- **Note:** I make use of AVERAGEIFS() to calculate the averages of based on multiple condition
 - **Applied:** I used SUMIFS() to calculate the total sum based on some conditions
-- **Next proof:** I make use of COUNTIFS to count the number of values based on some conditions
+- **Note:** I make use of COUNTIFS to count the number of values based on some conditions
 - **Note:** I make us of IFERROR to trap the violation of mathematical and arithimetic operations
 - **Note:** I make use of XLOOKUP to search for a value in an array and return required values
 
@@ -720,5 +720,26 @@ I opened the SalesTable in the calculator sheet, and I make use of the COUNTIFS(
 - [x] Use SUMIFS
 - [x] Use IFERROR
 - [x] Use Sort on the table
+
+---
+
+### Lesson 5: Visualize: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, and XLOOKUP
+
+| Field | Value |
+| --- | --- |
+| Lesson slug | `da-week-02-visualize` |
+| Phase | Excel |
+| Saved/updated | 15 Jul 2026 at 14:18 |
+| Completed tasks | 4 |
+| Lesson complete | In progress |
+
+### What I Did
+
+- **Note:** I set up a workbook with different sheets including Rawdata, Tracking and notes.
+- **Explained:** I crated a visualization by highlighting the cells and inserting a clustered bar chart to compare the two variables in question.
+
+### To Explore Further
+
+
 
 ---
