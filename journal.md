@@ -1,6 +1,6 @@
 # Data Analyst Job-Ready Learning Journal
 
-> Last updated: 15 July 2026
+> Last updated: 16 July 2026
 
 ## Summary
 
@@ -10,9 +10,9 @@
 
 | Week | Evidence entries | Completed | Last updated |
 | --- | ---: | ---: | --- |
-| [Week 1: Day 1: Workspace Setup](#week-1-day-1-workspace-setup) | 1 | 1 | 25 Jun 2026 at 21:16 |
-| [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 04 Jul 2026 at 00:47 |
-| [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 5 | 4 | 15 Jul 2026 at 14:18 |
+| [Week 1: Day 1: Workspace Setup](#week-1-day-1-workspace-setup) | 1 | 1 | 25 Jun 2026, 21:16 |
+| [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 04 Jul 2026, 00:47 |
+| [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 5 | 4 | 16 Jul 2026, 06:36 |
 
 ---
 
@@ -24,7 +24,7 @@
 | --- | --- |
 | Lesson slug | `da-setup-day-1` |
 | Phase | Setup |
-| Saved/updated | 25 Jun 2026 at 21:16 |
+| Saved/updated | 25 Jun 2026, 21:16 |
 | Completed tasks | 10 |
 | Lesson complete | Yes |
 
@@ -58,7 +58,7 @@
 | --- | --- |
 | Lesson slug | `da-week-01-learn` |
 | Phase | Excel |
-| Saved/updated | 25 Jun 2026 at 21:34 |
+| Saved/updated | 25 Jun 2026, 21:34 |
 | Completed tasks | 9 |
 | Lesson complete | Yes |
 
@@ -79,7 +79,7 @@
 | --- | --- |
 | Lesson slug | `da-week-01-practice` |
 | Phase | Excel |
-| Saved/updated | 26 Jun 2026 at 23:38 |
+| Saved/updated | 26 Jun 2026, 23:38 |
 | Completed tasks | 4 |
 | Lesson complete | Yes |
 
@@ -193,7 +193,7 @@ I opened the SalesTable in the tracker sheet, and I sorted the revenue field in 
 | --- | --- |
 | Lesson slug | `da-week-01-clean-validate` |
 | Phase | Excel |
-| Saved/updated | 27 Jun 2026 at 21:18 |
+| Saved/updated | 27 Jun 2026, 21:18 |
 | Completed tasks | 4 |
 | Lesson complete | Yes |
 
@@ -220,7 +220,7 @@ I opened the SalesTable in the tracker sheet, and I sorted the revenue field in 
 | --- | --- |
 | Lesson slug | `da-week-01-analyze` |
 | Phase | Excel |
-| Saved/updated | 27 Jun 2026 at 22:20 |
+| Saved/updated | 27 Jun 2026, 22:20 |
 | Completed tasks | 4 |
 | Lesson complete | Yes |
 
@@ -249,7 +249,7 @@ I opened the SalesTable in the tracker sheet, and I sorted the revenue field in 
 | --- | --- |
 | Lesson slug | `da-week-01-visualize` |
 | Phase | Excel |
-| Saved/updated | 02 Jul 2026 at 15:22 |
+| Saved/updated | 02 Jul 2026, 15:22 |
 | Completed tasks | 4 |
 | Lesson complete | Yes |
 
@@ -375,7 +375,7 @@ I formatted the chart legend by RIGHT clicking on the chart and Select Data Sour
 | --- | --- |
 | Lesson slug | `da-week-01-portfolio-proof` |
 | Phase | Excel |
-| Saved/updated | 04 Jul 2026 at 00:16 |
+| Saved/updated | 04 Jul 2026, 00:16 |
 | Completed tasks | 4 |
 | Lesson complete | Yes |
 
@@ -459,7 +459,7 @@ wrong chart type
 | --- | --- |
 | Lesson slug | `da-week-01-review` |
 | Phase | Excel |
-| Saved/updated | 04 Jul 2026 at 00:47 |
+| Saved/updated | 04 Jul 2026, 00:47 |
 | Completed tasks | 4 |
 | Lesson complete | Yes |
 
@@ -484,7 +484,7 @@ wrong chart type
 | --- | --- |
 | Lesson slug | `da-week-02-learn` |
 | Phase | Excel |
-| Saved/updated | 09 Jul 2026 at 00:32 |
+| Saved/updated | 09 Jul 2026, 00:32 |
 | Completed tasks | 12 |
 | Lesson complete | Yes |
 
@@ -639,7 +639,7 @@ I opened the SalesTable in the calculator sheet, and I make use of the COUNTIFS(
 | --- | --- |
 | Lesson slug | `da-week-02-practice` |
 | Phase | Excel |
-| Saved/updated | 11 Jul 2026 at 16:24 |
+| Saved/updated | 11 Jul 2026, 16:24 |
 | Completed tasks | 5 |
 | Lesson complete | Yes |
 
@@ -668,7 +668,7 @@ I opened the SalesTable in the calculator sheet, and I make use of the COUNTIFS(
 | --- | --- |
 | Lesson slug | `da-week-02-clean-validate` |
 | Phase | Excel |
-| Saved/updated | 13 Jul 2026 at 14:40 |
+| Saved/updated | 13 Jul 2026, 14:40 |
 | Completed tasks | 5 |
 | Lesson complete | Yes |
 
@@ -697,7 +697,7 @@ I opened the SalesTable in the calculator sheet, and I make use of the COUNTIFS(
 | --- | --- |
 | Lesson slug | `da-week-02-analyze` |
 | Phase | Excel |
-| Saved/updated | 13 Jul 2026 at 20:55 |
+| Saved/updated | 13 Jul 2026, 20:55 |
 | Completed tasks | 5 |
 | Lesson complete | Yes |
 
@@ -729,7 +729,7 @@ I opened the SalesTable in the calculator sheet, and I make use of the COUNTIFS(
 | --- | --- |
 | Lesson slug | `da-week-02-visualize` |
 | Phase | Excel |
-| Saved/updated | 15 Jul 2026 at 14:18 |
+| Saved/updated | 16 Jul 2026, 06:36 |
 | Completed tasks | 4 |
 | Lesson complete | In progress |
 
@@ -737,9 +737,11 @@ I opened the SalesTable in the calculator sheet, and I make use of the COUNTIFS(
 
 - **Note:** I set up a workbook with different sheets including Rawdata, Tracking and notes.
 - **Explained:** I crated a visualization by highlighting the cells and inserting a clustered bar chart to compare the two variables in question.
+- **Built:** I added the chart title to give my audience an expectation of what to see
 
 ### To Explore Further
 
-
+- [ ] Formatting Data point
+- [ ] Signling out a bar for attention
 
 ---
