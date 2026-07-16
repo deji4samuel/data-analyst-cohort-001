@@ -12,7 +12,7 @@
 | --- | ---: | ---: | --- |
 | [Week 1: Day 1: Workspace Setup](#week-1-day-1-workspace-setup) | 1 | 1 | 25 Jun 2026, 21:16 |
 | [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 04 Jul 2026, 00:47 |
-| [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 5 | 4 | 16 Jul 2026, 06:36 |
+| [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 5 | 4 | 16 Jul 2026, 06:38 |
 
 ---
 
@@ -729,7 +729,7 @@ I opened the SalesTable in the calculator sheet, and I make use of the COUNTIFS(
 | --- | --- |
 | Lesson slug | `da-week-02-visualize` |
 | Phase | Excel |
-| Saved/updated | 16 Jul 2026, 06:36 |
+| Saved/updated | 16 Jul 2026, 06:38 |
 | Completed tasks | 4 |
 | Lesson complete | In progress |
 
@@ -738,6 +738,7 @@ I opened the SalesTable in the calculator sheet, and I make use of the COUNTIFS(
 - **Note:** I set up a workbook with different sheets including Rawdata, Tracking and notes.
 - **Explained:** I crated a visualization by highlighting the cells and inserting a clustered bar chart to compare the two variables in question.
 - **Built:** I added the chart title to give my audience an expectation of what to see
+- **Note:** I learnt the use of RAG in designing a dashboard
 
 ### To Explore Further
 
