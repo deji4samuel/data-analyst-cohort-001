@@ -1,18 +1,19 @@
 # Data Analyst Job-Ready Learning Journal
 
-> Last updated: 16 July 2026
+> Last updated: 18 July 2026
 
 ## Summary
 
 - Track: Data Analyst Job-Ready
-- Weeks with evidence: 3
-- Lesson entries captured: 13
+- Weeks with evidence: 4
+- Lesson entries captured: 16
 
 | Week | Evidence entries | Completed | Last updated |
 | --- | ---: | ---: | --- |
 | [Week 1: Day 1: Workspace Setup](#week-1-day-1-workspace-setup) | 1 | 1 | 25 Jun 2026, 21:16 |
 | [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 04 Jul 2026, 00:47 |
-| [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 5 | 4 | 16 Jul 2026, 06:38 |
+| [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 7 | 7 | 18 Jul 2026, 15:16 |
+| [Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns](#week-3-cleaning-data-duplicates-trimproper-text-to-columns) | 1 | 1 | 17 Jul 2026, 01:43 |
 
 ---
 
@@ -729,9 +730,9 @@ I opened the SalesTable in the calculator sheet, and I make use of the COUNTIFS(
 | --- | --- |
 | Lesson slug | `da-week-02-visualize` |
 | Phase | Excel |
-| Saved/updated | 16 Jul 2026, 06:38 |
-| Completed tasks | 4 |
-| Lesson complete | In progress |
+| Saved/updated | 16 Jul 2026, 06:43 |
+| Completed tasks | 5 |
+| Lesson complete | Yes |
 
 ### What I Did
 
@@ -744,5 +745,83 @@ I opened the SalesTable in the calculator sheet, and I make use of the COUNTIFS(
 
 - [ ] Formatting Data point
 - [ ] Signling out a bar for attention
+
+---
+
+### Lesson 6: Portfolio proof: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, and XLOOKUP
+
+| Field | Value |
+| --- | --- |
+| Lesson slug | `da-week-02-portfolio-proof` |
+| Phase | Excel |
+| Saved/updated | 18 Jul 2026, 15:16 |
+| Completed tasks | 5 |
+| Lesson complete | Yes |
+
+### What I Did
+
+- **Note:** I practiced the use of Nested IF on tables to gain more understanding
+- **Built:** I created a dashboard that compare the actual and target sales of different Line products using the MSExcel bar chart across the 5 different products.
+- **Note:** I make use of helper column to calculate teporary vaues required to update my table and charts.
+
+### To Explore Further
+
+
+
+### My Practice Work
+
+---
+<!-- framework:solve -->
+
+## Portfolio proof: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, and XLOOKUP
+**Completed:** 2026-07-16 | **Method:** SOLVE
+
+> **Scenario:** Sector: Multi-industry
+> 
+> Scenario: You have built a commission calculator, applied formulas to student grades, fixed e-commerce catalogue errors, analysed property performance, and built a production dashboard. A recruiter reading your GitHub now sees someone who can apply the same analytical toolkit across five completely different industries. That versatility is your edge.
+
+### S — Split the problem
+- Commission Calculator, student grades, e-commerce catalogue errors, property performance and production dashboard
+A recruiter reading your GitHub now sees someone who can apply the same analytical toolkit across five completely different industries
+That versatility is your edge.
+
+- The audience is the recruiter reading GitHub journal/profile
+The data/visual decision is the output from the work done and skills shown
+The versatility and appearance of the work product is the contraint on time-to-understand
+
+- The workbook sheets are
+1. Raw_Data
+2. Sales_Data
+3. Calculator
+4. Notes
+
+And the chart title is
+1. Lines E needs urgent attention—20% below daily target
+
+---
+
+### Lesson 7: Review: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, and XLOOKUP
+
+| Field | Value |
+| --- | --- |
+| Lesson slug | `da-week-02-review` |
+| Phase | Excel |
+| Saved/updated | 17 Jul 2026, 01:41 |
+| Completed tasks | 5 |
+| Lesson complete | Yes |
+
+---
+
+## Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns
+
+### Lesson 1: Learn: Cleaning data: duplicates, TRIM/PROPER, text-to-columns, date formats, and validation rules
+
+| Field | Value |
+| --- | --- |
+| Lesson slug | `da-week-03-learn` |
+| Phase | Excel |
+| Saved/updated | 17 Jul 2026, 01:43 |
+| Completed tasks | 12 |
+| Lesson complete | Yes |
 
 ---
