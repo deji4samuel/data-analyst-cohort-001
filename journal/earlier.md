@@ -13,7 +13,7 @@
 | [Week 1: Day 1: Workspace Setup](#week-1-day-1-workspace-setup) | 1 | 1 | 25 Jun 2026, 21:16 |
 | [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 04 Jul 2026, 00:47 |
 | [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 7 | 7 | 22 Jul 2026, 15:09 |
-| [Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns](#week-3-cleaning-data-duplicates-trimproper-text-to-columns) | 2 | 1 | 22 Jul 2026, 18:48 |
+| [Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns](#week-3-cleaning-data-duplicates-trimproper-text-to-columns) | 2 | 1 | 22 Jul 2026, 18:50 |
 
 ---
 
@@ -850,7 +850,7 @@ And the chart title is
 | --- | --- |
 | Lesson slug | `da-week-03-practice` |
 | Phase | Excel |
-| Saved/updated | 22 Jul 2026, 18:48 |
+| Saved/updated | 22 Jul 2026, 18:50 |
 | Completed tasks | 0 |
 | Lesson complete | In progress |
 
@@ -862,12 +862,14 @@ And the chart title is
 - **Built:** I created Notes sheet where I log all the changes and record the flag row/column
 - **Applied:** I used TRIM and PROPER function to clean the name column off leading and trailing spaces, and then standardised the texts
 - **Applied:** I used TRIM and LOWER function to clean the email address column off leading and trailing spaces, and then standardised the texts
+- **Note:** I corrected all the uneven date formatting and make all dates to be in short date format
+- **Applied:** I used SUBSTITUTE in conjunction with VALUE function to remove the currency sign in from the Amount value for ease of calculation.
 
 ### To Explore Further
 
 - [x] Explore LIMIT function
 - [x] Further make use of TRIM and PROPER function
-- [ ] Study SUBSTITUTE Function
-- [ ] Study VALUE Function
+- [x] Study SUBSTITUTE Function
+- [x] Study VALUE Function
 
 ---
