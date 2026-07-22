@@ -13,7 +13,7 @@
 | [Week 1: Day 1: Workspace Setup](#week-1-day-1-workspace-setup) | 1 | 1 | 25 Jun 2026, 21:16 |
 | [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 04 Jul 2026, 00:47 |
 | [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 7 | 7 | 22 Jul 2026, 15:09 |
-| [Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns](#week-3-cleaning-data-duplicates-trimproper-text-to-columns) | 1 | 1 | 17 Jul 2026, 01:43 |
+| [Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns](#week-3-cleaning-data-duplicates-trimproper-text-to-columns) | 1 | 0 | 22 Jul 2026, 16:33 |
 
 ---
 
@@ -824,8 +824,20 @@ And the chart title is
 | --- | --- |
 | Lesson slug | `da-week-03-learn` |
 | Phase | Excel |
-| Saved/updated | 17 Jul 2026, 01:43 |
-| Completed tasks | 12 |
-| Lesson complete | Yes |
+| Saved/updated | 22 Jul 2026, 16:33 |
+| Completed tasks | 11 |
+| Lesson complete | In progress |
+
+### What I Did
+
+- **Note:** I setup a workbook for the project
+- **Built:** I created RawData sheet sheet as instructed
+- **Built:** I created CleanedCustomer sheet where I apply all the formula references
+- **Built:** I created Notes sheet where I log all the changes and record the flag row/column
+
+### To Explore Further
+
+- [ ] Read about TRIM Function
+- [ ] Apply PROPER Function
 
 ---
