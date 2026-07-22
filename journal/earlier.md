@@ -6,14 +6,14 @@
 
 - Track: Data Analyst Job-Ready
 - Weeks with evidence: 4
-- Lesson entries captured: 16
+- Lesson entries captured: 17
 
 | Week | Evidence entries | Completed | Last updated |
 | --- | ---: | ---: | --- |
 | [Week 1: Day 1: Workspace Setup](#week-1-day-1-workspace-setup) | 1 | 1 | 25 Jun 2026, 21:16 |
 | [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 04 Jul 2026, 00:47 |
 | [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 7 | 7 | 22 Jul 2026, 15:09 |
-| [Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns](#week-3-cleaning-data-duplicates-trimproper-text-to-columns) | 1 | 0 | 22 Jul 2026, 16:34 |
+| [Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns](#week-3-cleaning-data-duplicates-trimproper-text-to-columns) | 2 | 1 | 22 Jul 2026, 18:21 |
 
 ---
 
@@ -825,8 +825,8 @@ And the chart title is
 | Lesson slug | `da-week-03-learn` |
 | Phase | Excel |
 | Saved/updated | 22 Jul 2026, 16:34 |
-| Completed tasks | 11 |
-| Lesson complete | In progress |
+| Completed tasks | 12 |
+| Lesson complete | Yes |
 
 ### What I Did
 
@@ -841,5 +841,29 @@ And the chart title is
 
 - [x] Read about TRIM Function
 - [x] Apply PROPER Function
+
+---
+
+### Lesson 2: Practice: Cleaning data: duplicates, TRIM/PROPER, text-to-columns, date formats, and validation rules
+
+| Field | Value |
+| --- | --- |
+| Lesson slug | `da-week-03-practice` |
+| Phase | Excel |
+| Saved/updated | 22 Jul 2026, 18:21 |
+| Completed tasks | 0 |
+| Lesson complete | In progress |
+
+### What I Did
+
+- **Note:** I setup a workbook for the project
+- **Built:** I created RawData sheet sheet
+- **Built:** I created CleanDonoorsheet sheet where I apply all the formula references
+- **Built:** I created Notes sheet where I log all the changes and record the flag row/column
+
+### To Explore Further
+
+- [ ] Explore LIMIT function
+- [ ] Further make use of TRIM and PROPER function
 
 ---
