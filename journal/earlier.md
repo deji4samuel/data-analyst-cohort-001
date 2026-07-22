@@ -835,6 +835,7 @@ And the chart title is
 - **Built:** I created CleanedCustomer sheet where I apply all the formula references
 - **Built:** I created Notes sheet where I log all the changes and record the flag row/column
 - **Applied:** I used TRIM and PROPER function to clean the text off leading and trailing spaces, and then standardised the texts
+- **Note:** I corrected all the uneven date formatting and make all dates to be in short date format
 
 ### To Explore Further
 
