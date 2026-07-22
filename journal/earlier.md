@@ -13,7 +13,7 @@
 | [Week 1: Day 1: Workspace Setup](#week-1-day-1-workspace-setup) | 1 | 1 | 25 Jun 2026, 21:16 |
 | [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 04 Jul 2026, 00:47 |
 | [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 7 | 7 | 22 Jul 2026, 15:09 |
-| [Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns](#week-3-cleaning-data-duplicates-trimproper-text-to-columns) | 1 | 0 | 22 Jul 2026, 16:33 |
+| [Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns](#week-3-cleaning-data-duplicates-trimproper-text-to-columns) | 1 | 0 | 22 Jul 2026, 16:34 |
 
 ---
 
@@ -824,7 +824,7 @@ And the chart title is
 | --- | --- |
 | Lesson slug | `da-week-03-learn` |
 | Phase | Excel |
-| Saved/updated | 22 Jul 2026, 16:33 |
+| Saved/updated | 22 Jul 2026, 16:34 |
 | Completed tasks | 11 |
 | Lesson complete | In progress |
 
@@ -834,10 +834,11 @@ And the chart title is
 - **Built:** I created RawData sheet sheet as instructed
 - **Built:** I created CleanedCustomer sheet where I apply all the formula references
 - **Built:** I created Notes sheet where I log all the changes and record the flag row/column
+- **Applied:** I used TRIM and PROPER function to clean the text off leading and trailing spaces, and then standardised the texts
 
 ### To Explore Further
 
-- [ ] Read about TRIM Function
-- [ ] Apply PROPER Function
+- [x] Read about TRIM Function
+- [x] Apply PROPER Function
 
 ---
