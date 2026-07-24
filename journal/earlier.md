@@ -13,7 +13,7 @@
 | [Week 1: Day 1: Workspace Setup](#week-1-day-1-workspace-setup) | 1 | 1 | 25 Jun 2026, 21:16 |
 | [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 04 Jul 2026, 00:47 |
 | [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 7 | 7 | 22 Jul 2026, 15:09 |
-| [Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns](#week-3-cleaning-data-duplicates-trimproper-text-to-columns) | 4 | 3 | 24 Jul 2026, 15:27 |
+| [Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns](#week-3-cleaning-data-duplicates-trimproper-text-to-columns) | 4 | 3 | 24 Jul 2026, 15:32 |
 
 ---
 
@@ -906,8 +906,8 @@ And the chart title is
 | --- | --- |
 | Lesson slug | `da-week-03-analyze` |
 | Phase | Excel |
-| Saved/updated | 24 Jul 2026, 15:27 |
-| Completed tasks | 0 |
+| Saved/updated | 24 Jul 2026, 15:32 |
+| Completed tasks | 4 |
 | Lesson complete | In progress |
 
 ### What I Did
@@ -917,9 +917,10 @@ And the chart title is
 - **Applied:** I used of SUM() function to find the total billed amount
 - **Applied:** I used of SUM() function to find the total collected amount
 - **Built:** I created an helper column to calculate the collection rate in percentage
+- **Applied:** I used the INDEX() Function to with both MATCH() and MIN() functions to find theh area that needs the recovery plan
 
 ### To Explore Further
 
-- [ ] Study the usage INDEX() Function
+- [x] Study the usage INDEX() Function
 
 ---
