@@ -13,7 +13,7 @@
 | [Week 1: Day 1: Workspace Setup](#week-1-day-1-workspace-setup) | 1 | 1 | 25 Jun 2026, 21:16 |
 | [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 04 Jul 2026, 00:47 |
 | [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 7 | 7 | 22 Jul 2026, 15:09 |
-| [Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns](#week-3-cleaning-data-duplicates-trimproper-text-to-columns) | 6 | 5 | 27 Jul 2026, 00:31 |
+| [Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns](#week-3-cleaning-data-duplicates-trimproper-text-to-columns) | 6 | 5 | 27 Jul 2026, 00:34 |
 
 ---
 
@@ -955,7 +955,7 @@ And the chart title is
 | --- | --- |
 | Lesson slug | `da-week-03-portfolio-proof` |
 | Phase | Excel |
-| Saved/updated | 27 Jul 2026, 00:31 |
+| Saved/updated | 27 Jul 2026, 00:34 |
 | Completed tasks | 0 |
 | Lesson complete | In progress |
 
@@ -963,6 +963,7 @@ And the chart title is
 
 - **Applied:** This week, I used COUNTIF() function to discover the duplicates in the Donor dataset
 - **Applied:** I used IF() function to discover the invalid data in insurance policy dataset
+- **Applied:** I used ISNUMBER() to vallidate the value of date column in the insurance policy dataset
 
 ### To Explore Further
 
