@@ -4,7 +4,7 @@
 
 ![Activity](assets/activity.svg)
 
-**24 days logged &middot; 0 weeks &middot; 1-day streak &middot; last activity 2026-07-26**
+**25 days logged &middot; 1 weeks &middot; 1-day streak &middot; last activity 2026-07-28**
 
 ## Latest Proof
 
@@ -12,7 +12,7 @@ Quick recruiter review path — the newest 1-2 weeks of logged evidence.
 
 | Date | Activity | Topic | Evidence |
 | --- | --- | --- | --- |
-| — | — | — | Save a journal entry to populate this table |
+| 2026-07-27 | Daily Concept Clinic | DQ Math 05 - Invalid Values & Rule Violations | — |
 
 Full journal: [journal/index.md](journal/index.md)
 
