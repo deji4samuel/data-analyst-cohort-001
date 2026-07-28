@@ -6,7 +6,7 @@
 
 - Track: Data Analyst Job-Ready
 - Weeks with evidence: 5
-- Lesson entries captured: 23
+- Lesson entries captured: 24
 
 | Week | Evidence entries | Completed | Last updated |
 | --- | ---: | ---: | --- |
@@ -14,7 +14,7 @@
 | [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 04 Jul 2026, 00:47 |
 | [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 7 | 7 | 22 Jul 2026, 15:09 |
 | [Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns](#week-3-cleaning-data-duplicates-trimproper-text-to-columns) | 7 | 7 | 27 Jul 2026, 00:39 |
-| [Week 4: Pivot tables, pivot charts, slicers, and a one-page man](#week-4-pivot-tables-pivot-charts-slicers-and-a-one-page-man) | 1 | 0 | 28 Jul 2026, 10:11 |
+| [Week 4: Pivot tables, pivot charts, slicers, and a one-page man](#week-4-pivot-tables-pivot-charts-slicers-and-a-one-page-man) | 2 | 1 | 28 Jul 2026, 15:04 |
 
 ---
 
@@ -995,9 +995,9 @@ And the chart title is
 | --- | --- |
 | Lesson slug | `da-week-04-learn` |
 | Phase | Excel |
-| Saved/updated | 28 Jul 2026, 10:11 |
-| Completed tasks | 12 |
-| Lesson complete | In progress |
+| Saved/updated | 28 Jul 2026, 10:13 |
+| Completed tasks | 13 |
+| Lesson complete | Yes |
 
 ### What I Did
 
@@ -1013,5 +1013,26 @@ And the chart title is
 - [x] Pivot table
 - [x] Pivot Chart
 - [x] Slicer
+
+---
+
+### Lesson 2: Practice: Pivot tables, pivot charts, slicers, and a one-page management report
+
+| Field | Value |
+| --- | --- |
+| Lesson slug | `da-week-04-practice` |
+| Phase | Excel |
+| Saved/updated | 28 Jul 2026, 15:04 |
+| Completed tasks | 5 |
+| Lesson complete | In progress |
+
+### What I Did
+
+- **Note:** I setup a workbook for the project
+- **Built:** I created RawData sheet and insert the Pivot Table
+
+### To Explore Further
+
+
 
 ---
