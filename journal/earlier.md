@@ -14,7 +14,7 @@
 | [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 04 Jul 2026, 00:47 |
 | [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 7 | 7 | 22 Jul 2026, 15:09 |
 | [Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns](#week-3-cleaning-data-duplicates-trimproper-text-to-columns) | 7 | 7 | 27 Jul 2026, 00:39 |
-| [Week 4: Pivot tables, pivot charts, slicers, and a one-page man](#week-4-pivot-tables-pivot-charts-slicers-and-a-one-page-man) | 2 | 1 | 28 Jul 2026, 15:06 |
+| [Week 4: Pivot tables, pivot charts, slicers, and a one-page man](#week-4-pivot-tables-pivot-charts-slicers-and-a-one-page-man) | 2 | 1 | 28 Jul 2026, 15:09 |
 
 ---
 
@@ -1022,7 +1022,7 @@ And the chart title is
 | --- | --- |
 | Lesson slug | `da-week-04-practice` |
 | Phase | Excel |
-| Saved/updated | 28 Jul 2026, 15:06 |
+| Saved/updated | 28 Jul 2026, 15:09 |
 | Completed tasks | 5 |
 | Lesson complete | In progress |
 
@@ -1032,6 +1032,8 @@ And the chart title is
 - **Built:** I created RawData sheet and insert the Pivot Table
 - **Built:** I created the Dashboard sheet to display the analysis output
 - **Applied:** I used the Pivot Chart to display the Region vs Revenue generated in each region
+- **Note:** I inserted Sice so that the regional managers can view the performance of each region without input from them
+- **Note:** I moved the graphics (charts and slices) to the dashboard sheet for cleaner view.
 
 ### To Explore Further
 
