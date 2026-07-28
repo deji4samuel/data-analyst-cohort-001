@@ -1,19 +1,20 @@
 # Data Analyst Job-Ready Learning Journal
 
-> Last updated: 27 July 2026
+> Last updated: 28 July 2026
 
 ## Summary
 
 - Track: Data Analyst Job-Ready
-- Weeks with evidence: 4
-- Lesson entries captured: 21
+- Weeks with evidence: 5
+- Lesson entries captured: 23
 
 | Week | Evidence entries | Completed | Last updated |
 | --- | ---: | ---: | --- |
 | [Week 1: Day 1: Workspace Setup](#week-1-day-1-workspace-setup) | 1 | 1 | 25 Jun 2026, 21:16 |
 | [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 04 Jul 2026, 00:47 |
 | [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 7 | 7 | 22 Jul 2026, 15:09 |
-| [Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns](#week-3-cleaning-data-duplicates-trimproper-text-to-columns) | 6 | 5 | 27 Jul 2026, 00:36 |
+| [Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns](#week-3-cleaning-data-duplicates-trimproper-text-to-columns) | 7 | 7 | 27 Jul 2026, 00:39 |
+| [Week 4: Pivot tables, pivot charts, slicers, and a one-page man](#week-4-pivot-tables-pivot-charts-slicers-and-a-one-page-man) | 1 | 0 | 28 Jul 2026, 06:44 |
 
 ---
 
@@ -955,9 +956,9 @@ And the chart title is
 | --- | --- |
 | Lesson slug | `da-week-03-portfolio-proof` |
 | Phase | Excel |
-| Saved/updated | 27 Jul 2026, 00:36 |
-| Completed tasks | 0 |
-| Lesson complete | In progress |
+| Saved/updated | 27 Jul 2026, 00:37 |
+| Completed tasks | 5 |
+| Lesson complete | Yes |
 
 ### What I Did
 
@@ -971,5 +972,41 @@ And the chart title is
 ### To Explore Further
 
 
+
+---
+
+### Lesson 7: Review: Cleaning data: duplicates, TRIM/PROPER, text-to-columns, date formats, and validation rules
+
+| Field | Value |
+| --- | --- |
+| Lesson slug | `da-week-03-review` |
+| Phase | Excel |
+| Saved/updated | 27 Jul 2026, 00:39 |
+| Completed tasks | 5 |
+| Lesson complete | Yes |
+
+---
+
+## Week 4: Pivot tables, pivot charts, slicers, and a one-page man
+
+### Lesson 1: Learn: Pivot tables, pivot charts, slicers, and a one-page management report
+
+| Field | Value |
+| --- | --- |
+| Lesson slug | `da-week-04-learn` |
+| Phase | Excel |
+| Saved/updated | 28 Jul 2026, 06:44 |
+| Completed tasks | 12 |
+| Lesson complete | In progress |
+
+### What I Did
+
+- **Note:** I setup a workbook for the project
+
+### To Explore Further
+
+- [ ] Pivot table
+- [ ] Pivot Chart
+- [ ] Slicer
 
 ---
