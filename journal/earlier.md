@@ -14,7 +14,7 @@
 | [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 04 Jul 2026, 00:47 |
 | [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 7 | 7 | 22 Jul 2026, 15:09 |
 | [Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns](#week-3-cleaning-data-duplicates-trimproper-text-to-columns) | 7 | 7 | 27 Jul 2026, 00:39 |
-| [Week 4: Pivot tables, pivot charts, slicers, and a one-page man](#week-4-pivot-tables-pivot-charts-slicers-and-a-one-page-man) | 1 | 0 | 28 Jul 2026, 06:44 |
+| [Week 4: Pivot tables, pivot charts, slicers, and a one-page man](#week-4-pivot-tables-pivot-charts-slicers-and-a-one-page-man) | 1 | 0 | 28 Jul 2026, 06:48 |
 
 ---
 
@@ -995,17 +995,19 @@ And the chart title is
 | --- | --- |
 | Lesson slug | `da-week-04-learn` |
 | Phase | Excel |
-| Saved/updated | 28 Jul 2026, 06:44 |
+| Saved/updated | 28 Jul 2026, 06:48 |
 | Completed tasks | 12 |
 | Lesson complete | In progress |
 
 ### What I Did
 
 - **Note:** I setup a workbook for the project
+- **Note:** I inserted the Pivot table on a separate sheet
+- **Built:** I built the Pivot table for the hoetl dataset by having the RoomType in rows, Month in columns and Revenue in values
 
 ### To Explore Further
 
-- [ ] Pivot table
+- [x] Pivot table
 - [ ] Pivot Chart
 - [ ] Slicer
 
