@@ -1,12 +1,12 @@
 # Data Analyst Job-Ready Learning Journal
 
-> Last updated: 28 July 2026
+> Last updated: 29 July 2026
 
 ## Summary
 
 - Track: Data Analyst Job-Ready
 - Weeks with evidence: 5
-- Lesson entries captured: 24
+- Lesson entries captured: 25
 
 | Week | Evidence entries | Completed | Last updated |
 | --- | ---: | ---: | --- |
@@ -14,7 +14,7 @@
 | [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 04 Jul 2026, 00:47 |
 | [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 7 | 7 | 22 Jul 2026, 15:09 |
 | [Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns](#week-3-cleaning-data-duplicates-trimproper-text-to-columns) | 7 | 7 | 27 Jul 2026, 00:39 |
-| [Week 4: Pivot tables, pivot charts, slicers, and a one-page man](#week-4-pivot-tables-pivot-charts-slicers-and-a-one-page-man) | 2 | 2 | 28 Jul 2026, 15:09 |
+| [Week 4: Pivot tables, pivot charts, slicers, and a one-page man](#week-4-pivot-tables-pivot-charts-slicers-and-a-one-page-man) | 3 | 2 | 29 Jul 2026, 15:37 |
 
 ---
 
@@ -1034,6 +1034,32 @@ And the chart title is
 - **Applied:** I used the Pivot Chart to display the Region vs Revenue generated in each region
 - **Note:** I inserted Sice so that the regional managers can view the performance of each region without input from them
 - **Note:** I moved the graphics (charts and slices) to the dashboard sheet for cleaner view.
+
+### To Explore Further
+
+
+
+---
+
+### Lesson 3: Clean and validate: Pivot tables, pivot charts, slicers, and a one-page management report
+
+| Field | Value |
+| --- | --- |
+| Lesson slug | `da-week-04-clean-validate` |
+| Phase | Excel |
+| Saved/updated | 29 Jul 2026, 15:37 |
+| Completed tasks | 4 |
+| Lesson complete | In progress |
+
+### What I Did
+
+- **Note:** I setup a workbook for the project
+- **Built:** I created RawData sheet
+- **Built:** I created MeterData sheet where I apply all the formula references
+- **Built:** I created CleanMeter sheet where I cleaned data to build used for Pivot Table operation
+- **Built:** I created Notes sheet where I log all the changes and record the flag row/column
+- **Applied:** I used IFS() to flag the invalid and missing meter usage values
+- **Applied:** I used Pivot Table to anlyse the final work output
 
 ### To Explore Further
 
