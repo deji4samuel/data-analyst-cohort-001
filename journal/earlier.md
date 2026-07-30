@@ -6,7 +6,7 @@
 
 - Track: Data Analyst Job-Ready
 - Weeks with evidence: 5
-- Lesson entries captured: 26
+- Lesson entries captured: 28
 
 | Week | Evidence entries | Completed | Last updated |
 | --- | ---: | ---: | --- |
@@ -14,7 +14,7 @@
 | [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 04 Jul 2026, 00:47 |
 | [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 7 | 7 | 22 Jul 2026, 15:09 |
 | [Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns](#week-3-cleaning-data-duplicates-trimproper-text-to-columns) | 7 | 7 | 27 Jul 2026, 00:39 |
-| [Week 4: Pivot tables, pivot charts, slicers, and a one-page man](#week-4-pivot-tables-pivot-charts-slicers-and-a-one-page-man) | 4 | 3 | 30 Jul 2026, 20:41 |
+| [Week 4: Pivot tables, pivot charts, slicers, and a one-page man](#week-4-pivot-tables-pivot-charts-slicers-and-a-one-page-man) | 6 | 5 | 30 Jul 2026, 22:26 |
 
 ---
 
@@ -1073,15 +1073,63 @@ And the chart title is
 | --- | --- |
 | Lesson slug | `da-week-04-analyze` |
 | Phase | Excel |
-| Saved/updated | 30 Jul 2026, 20:41 |
+| Saved/updated | 30 Jul 2026, 20:42 |
 | Completed tasks | 5 |
-| Lesson complete | In progress |
+| Lesson complete | Yes |
 
 ### What I Did
 
 - **Applied:** I used Pivot table to find the total views and average time on page
 - **Built:** I created a slicer with the Author column so each user can select the author of interest
 - **Built:** I created a chart that display the views per category and average time spent on page
+
+### To Explore Further
+
+
+
+---
+
+### Lesson 5: Visualize: Pivot tables, pivot charts, slicers, and a one-page management report
+
+| Field | Value |
+| --- | --- |
+| Lesson slug | `da-week-04-visualize` |
+| Phase | Excel |
+| Saved/updated | 30 Jul 2026, 22:13 |
+| Completed tasks | 5 |
+| Lesson complete | Yes |
+
+### What I Did
+
+- **Built:** I created the workbook for the project
+- **Built:** I created the Pivot Table with the Venue at the row, Half at the column and Goalsfor as the values
+- **Applied:** I used clustered bar to visualize the Goalsfor and Goalsagainst
+- **Explained:** I gave the chart a title that explain the chart as a glance
+
+### To Explore Further
+
+
+
+---
+
+### Lesson 6: Portfolio proof: Pivot tables, pivot charts, slicers, and a one-page management report
+
+| Field | Value |
+| --- | --- |
+| Lesson slug | `da-week-04-portfolio-proof` |
+| Phase | Excel |
+| Saved/updated | 30 Jul 2026, 22:26 |
+| Completed tasks | 5 |
+| Lesson complete | In progress |
+
+### What I Did
+
+- **Built:** Built an interactive hotel income pivot with a breakdown by Room Type, Month, and Quarter. Suite income is 52% of the total. The board can sort by quarter without having to ask for a new file.
+- **Note:** Every month, sales change between 4 categories and 3 regions. Electronics bring in £11,000, or 57% of the total. Three directors can do their own screening with the regional slicer.
+- **Note:** Before pivoting, I cleaned up 8-meter records and found 5 problems. Pivot only has 6 valid readings
+- **Note:** negative and incomplete vaues are not included.
+- **Note:** Time-on-page averages 417s for Features and 119s for News. Okafor does better than expected on engagement in a multiple of 3.
+- **Note:** In terms of goals made, the second half of the season did better than the first. 40% more goals scored at home.
 
 ### To Explore Further
 
