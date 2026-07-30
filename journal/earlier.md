@@ -6,7 +6,7 @@
 
 - Track: Data Analyst Job-Ready
 - Weeks with evidence: 5
-- Lesson entries captured: 28
+- Lesson entries captured: 29
 
 | Week | Evidence entries | Completed | Last updated |
 | --- | ---: | ---: | --- |
@@ -14,7 +14,7 @@
 | [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 04 Jul 2026, 00:47 |
 | [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 7 | 7 | 22 Jul 2026, 15:09 |
 | [Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns](#week-3-cleaning-data-duplicates-trimproper-text-to-columns) | 7 | 7 | 27 Jul 2026, 00:39 |
-| [Week 4: Pivot tables, pivot charts, slicers, and a one-page man](#week-4-pivot-tables-pivot-charts-slicers-and-a-one-page-man) | 6 | 5 | 30 Jul 2026, 22:26 |
+| [Week 4: Pivot tables, pivot charts, slicers, and a one-page man](#week-4-pivot-tables-pivot-charts-slicers-and-a-one-page-man) | 7 | 6 | 30 Jul 2026, 22:40 |
 
 ---
 
@@ -1118,9 +1118,9 @@ And the chart title is
 | --- | --- |
 | Lesson slug | `da-week-04-portfolio-proof` |
 | Phase | Excel |
-| Saved/updated | 30 Jul 2026, 22:26 |
+| Saved/updated | 30 Jul 2026, 22:27 |
 | Completed tasks | 5 |
-| Lesson complete | In progress |
+| Lesson complete | Yes |
 
 ### What I Did
 
@@ -1130,6 +1130,27 @@ And the chart title is
 - **Note:** negative and incomplete vaues are not included.
 - **Note:** Time-on-page averages 417s for Features and 119s for News. Okafor does better than expected on engagement in a multiple of 3.
 - **Note:** In terms of goals made, the second half of the season did better than the first. 40% more goals scored at home.
+
+### To Explore Further
+
+
+
+---
+
+### Lesson 7: Review: Pivot tables, pivot charts, slicers, and a one-page management report
+
+| Field | Value |
+| --- | --- |
+| Lesson slug | `da-week-04-review` |
+| Phase | Excel |
+| Saved/updated | 30 Jul 2026, 22:40 |
+| Completed tasks | 5 |
+| Lesson complete | In progress |
+
+### What I Did
+
+- **Note:** The clustered chart gives the required information to the users at a glance.
+- **Applied:** The slicer used in the pivot table makes the non technical personnel to filter the dataset according to the category required.
 
 ### To Explore Further
 
