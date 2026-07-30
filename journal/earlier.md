@@ -1,12 +1,12 @@
 # Data Analyst Job-Ready Learning Journal
 
-> Last updated: 29 July 2026
+> Last updated: 30 July 2026
 
 ## Summary
 
 - Track: Data Analyst Job-Ready
 - Weeks with evidence: 5
-- Lesson entries captured: 25
+- Lesson entries captured: 26
 
 | Week | Evidence entries | Completed | Last updated |
 | --- | ---: | ---: | --- |
@@ -14,7 +14,7 @@
 | [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 04 Jul 2026, 00:47 |
 | [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 7 | 7 | 22 Jul 2026, 15:09 |
 | [Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns](#week-3-cleaning-data-duplicates-trimproper-text-to-columns) | 7 | 7 | 27 Jul 2026, 00:39 |
-| [Week 4: Pivot tables, pivot charts, slicers, and a one-page man](#week-4-pivot-tables-pivot-charts-slicers-and-a-one-page-man) | 3 | 2 | 29 Jul 2026, 15:37 |
+| [Week 4: Pivot tables, pivot charts, slicers, and a one-page man](#week-4-pivot-tables-pivot-charts-slicers-and-a-one-page-man) | 4 | 3 | 30 Jul 2026, 20:40 |
 
 ---
 
@@ -1047,9 +1047,9 @@ And the chart title is
 | --- | --- |
 | Lesson slug | `da-week-04-clean-validate` |
 | Phase | Excel |
-| Saved/updated | 29 Jul 2026, 15:37 |
-| Completed tasks | 4 |
-| Lesson complete | In progress |
+| Saved/updated | 29 Jul 2026, 15:38 |
+| Completed tasks | 5 |
+| Lesson complete | Yes |
 
 ### What I Did
 
@@ -1060,6 +1060,27 @@ And the chart title is
 - **Built:** I created Notes sheet where I log all the changes and record the flag row/column
 - **Applied:** I used IFS() to flag the invalid and missing meter usage values
 - **Applied:** I used Pivot Table to anlyse the final work output
+
+### To Explore Further
+
+
+
+---
+
+### Lesson 4: Analyze: Pivot tables, pivot charts, slicers, and a one-page management report
+
+| Field | Value |
+| --- | --- |
+| Lesson slug | `da-week-04-analyze` |
+| Phase | Excel |
+| Saved/updated | 30 Jul 2026, 20:40 |
+| Completed tasks | 4 |
+| Lesson complete | In progress |
+
+### What I Did
+
+- **Applied:** I used Pivot table to find the total views and average time on page
+- **Built:** I created a slicer with the Author column so each user can select the author of interest
 
 ### To Explore Further
 
