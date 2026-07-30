@@ -14,7 +14,7 @@
 | [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 04 Jul 2026, 00:47 |
 | [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 7 | 7 | 22 Jul 2026, 15:09 |
 | [Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns](#week-3-cleaning-data-duplicates-trimproper-text-to-columns) | 7 | 7 | 27 Jul 2026, 00:39 |
-| [Week 4: Pivot tables, pivot charts, slicers, and a one-page man](#week-4-pivot-tables-pivot-charts-slicers-and-a-one-page-man) | 4 | 3 | 30 Jul 2026, 20:40 |
+| [Week 4: Pivot tables, pivot charts, slicers, and a one-page man](#week-4-pivot-tables-pivot-charts-slicers-and-a-one-page-man) | 4 | 3 | 30 Jul 2026, 20:41 |
 
 ---
 
@@ -1073,14 +1073,15 @@ And the chart title is
 | --- | --- |
 | Lesson slug | `da-week-04-analyze` |
 | Phase | Excel |
-| Saved/updated | 30 Jul 2026, 20:40 |
-| Completed tasks | 4 |
+| Saved/updated | 30 Jul 2026, 20:41 |
+| Completed tasks | 5 |
 | Lesson complete | In progress |
 
 ### What I Did
 
 - **Applied:** I used Pivot table to find the total views and average time on page
 - **Built:** I created a slicer with the Author column so each user can select the author of interest
+- **Built:** I created a chart that display the views per category and average time spent on page
 
 ### To Explore Further
 
