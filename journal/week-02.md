@@ -1,16 +1,36 @@
-# Week 2: The Messy Monday Export — Week 2 Data Quality Hackathon
+# Week 2
 
 [← Back to journal index](index.md)
 
-## Daily Concept Clinic
+## Lessons — 1/1 complete
 
-### 2026-07-27 — DQ Math 05 - Invalid Values & Rule Violations
+| Lesson | Status | Tasks done | Updated |
+| --- | --- | --- | --- |
+| Learn: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, and XLOOKUP | Complete | 12 | 09 Jul 2026, 00:32 |
 
-- **Clinic topic:** DQ Math 05 - Invalid Values & Rule Violations
-- **What was taught:** Strengthening the basic framework of Detect -> Explain -> Treat -> Verify -> Communicate.
+### Learn: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, and XLOOKUP
 
-Also, the family of rule violations was discussed in depth, where we have a single-value rule, cross-field rule, and cross-table rule.
+**What I did**
 
-Further more, the severity of rule violation was also touched.
-- **What you now understand:** I was able to understand the use of the violation rate and validation rate. Also, I was able to understand that the rule violation severity could be relative to the importance of such a field to the business.
-- **Logged at:** 2026-07-28 05:35 UTC
+- **Note:** I learnt about the types of data analysis which comprises of Descriptive, Diagnostic, Predictive  & Prescriptive.
+- **Applied:** I had an overview of the tools and techniques being used for data analytics projects which includes SQL, Excel/Sheets, Dashboards and Python/R
+- **Note:** I study to understand the use of SUM and AVERAGE function from https://support.microsoft.com/en-us/excel/
+- **Note:** I study to understand the use of IFfunction from https://support.microsoft.com/en-us/excel/
+- **Note:** I study to understand the use of COUNTIFS function from https://support.microsoft.com/en-us/excel/
+- **Note:** I study to understand the use of XLOOKUP from https://support.microsoft.com/en-us/excel/
+- **Note:** I practiced the use of Nested IF on tables to gain more understanding
+- **Note:** I was able to discovert the limitation of COUNTIFS function
+
+**To explore further**
+
+- [x] SUM and AVERAGE Function
+- [x] COUNT() and COUNTIFS() Function
+- [x] IF() Function
+- [x] XLOOKUP() Function
+- [x] Nested IF()
+- [x] Application of the Functions learnt
+
+**Practice work**
+
+---
+<!-- framework:solve -->
