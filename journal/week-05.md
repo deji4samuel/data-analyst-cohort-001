@@ -24,6 +24,8 @@
 - **Applied:** IFS() function was used on waiting time to flag the Outlier
 - **Applied:** CORREL() function was used to calculate correlation between Staffing and patient waiting time
 - **Applied:** MODE.SNGL() function was used to calculate most frequent value of acuity.
+- **Note:** The distribution of the waiting time was plotted with histogram using the chart
+- **Note:** The relationship between Staffing and waiting time was plotted with scatter plot in excel chart
 
 **To explore further**
 
