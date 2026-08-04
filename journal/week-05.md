@@ -6,7 +6,7 @@
 
 | Lesson | Status | Tasks done | Updated |
 | --- | --- | --- | --- |
-| Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress | 10 | 04 Aug 2026, 23:33 |
+| Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress | 10 | 04 Aug 2026, 23:34 |
 
 ### Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English
 
@@ -23,11 +23,12 @@
 - **Note:** Upper fence = Q3 + (1.5 * IQR)
 - **Applied:** IFS() function was used on waiting time to flag the Outlier
 - **Applied:** CORREL() function was used to calculate correlation between Staffing and patient waiting time
+- **Applied:** MODE.SNGL() function was used to calculate most frequent value of acuity.
 
 **To explore further**
 
 - [x] Read about MEDIAN() Function
 - [x] Read about STDEV() function
 - [x] Read about QUARTILE() function
-- [ ] Read about MODE.SNGL() function
+- [x] Read about MODE.SNGL() function
 - [x] Read about CORREL() function
