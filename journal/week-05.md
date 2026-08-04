@@ -6,7 +6,7 @@
 
 | Lesson | Status | Tasks done | Updated |
 | --- | --- | --- | --- |
-| Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress | 9 | 04 Aug 2026, 21:58 |
+| Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress | 9 | 04 Aug 2026, 22:00 |
 
 ### Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English
 
@@ -17,10 +17,11 @@
 - **Applied:** AVERAGE() function was used to calculate the mean of Patient waiting time
 - **Applied:** MEDIAN() function was used to calculate the median of Patient waiting time
 - **Applied:** STDEV() function was used to calculate the standard deviation of Patient waiting time
+- **Applied:** QUARTILE() function was used to calculate both first quartile (Q1) and third quartile (Q3) of the data set
 
 **To explore further**
 
 - [x] Read about MEDIAN() Function
 - [x] Read about STDEV() function
-- [ ] Read about QUARTILE() function
+- [x] Read about QUARTILE() function
 - [ ] Read about MODE.SNGL() function
