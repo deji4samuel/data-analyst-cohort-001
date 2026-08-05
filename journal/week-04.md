@@ -88,3 +88,14 @@
 
 - **Note:** The clustered chart gives the required information to the users at a glance.
 - **Applied:** The slicer used in the pivot table makes the non technical personnel to filter the dataset according to the category required.
+
+## Daily Concept Clinic
+
+### Statistics 1: Centre - mean, median, mode
+
+_2026-08-03 · logged 2026-08-05 17:26 UTC_
+
+- **Clinic topic:** Statistics 1: Centre - mean, median, mode
+- **What was taught:** Two statistics families were explained. Both the center family and spread family were mentioned.
+- **What you now understand:** The centre family talks about the value that represents the group, while the spread family is more about how much the values vary
+- **What is still unclear or your feedback:** This is very granular and explains the basics required to understand statisical foundation of data analysis
