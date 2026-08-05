@@ -99,3 +99,11 @@ _2026-08-03 · logged 2026-08-05 17:26 UTC_
 - **What was taught:** Two statistics families were explained. Both the center family and spread family were mentioned.
 - **What you now understand:** The centre family talks about the value that represents the group, while the spread family is more about how much the values vary
 - **What is still unclear or your feedback:** This is very granular and explains the basics required to understand statisical foundation of data analysis
+
+### Statistics 1: Choosing mean vs median
+
+_2026-08-04 · logged 2026-08-05 22:13 UTC_
+
+- **Clinic topic:** Statistics 1: Choosing mean vs median
+- **What was taught:** How mean can make false positive central tendency due to outliers, and how median could be recognised as the true centre of the dataset
+- **What you now understand:** Do not jump to conclusions without considering other statistics family.
