@@ -4,7 +4,7 @@
 
 ![Activity](assets/activity.svg)
 
-**31 days logged &middot; 6 weeks &middot; 1-day streak &middot; last activity 2026-08-04**
+**32 days logged &middot; 6 weeks &middot; 2-day streak &middot; last activity 2026-08-05**
 
 ## Latest Proof
 
@@ -12,6 +12,7 @@ Quick recruiter review path — the newest 1-2 weeks of logged evidence.
 
 | Date | Activity | Topic | Evidence |
 | --- | --- | --- | --- |
+| 2026-08-03 | Daily Concept Clinic | Statistics 1: Centre - mean, median, mode | — |
 | 04 Aug 2026, 23:35 | Lesson | Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress |
 | 30 Jul 2026, 20:42 | Lesson | Analyze: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
 | 30 Jul 2026, 22:13 | Lesson | Visualize: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
@@ -19,7 +20,6 @@ Quick recruiter review path — the newest 1-2 weeks of logged evidence.
 | 30 Jul 2026, 22:41 | Lesson | Review: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
 | 29 Jul 2026, 15:38 | Lesson | Clean and validate: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
 | 28 Jul 2026, 15:09 | Lesson | Learn: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
-| 28 Jul 2026, 15:09 | Lesson | Practice: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
 
 Full journal: [journal/index.md](journal/index.md)
 
