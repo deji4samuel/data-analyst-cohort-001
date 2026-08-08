@@ -34,3 +34,14 @@
 - [x] Read about QUARTILE() function
 - [x] Read about MODE.SNGL() function
 - [x] Read about CORREL() function
+
+## Daily Concept Clinic
+
+### Statistics 2: Relationship - scatter plot and correlation
+
+_2026-08-07 · logged 2026-08-08 23:02 UTC_
+
+- **Clinic topic:** Statistics 2: Relationship - scatter plot and correlation
+- **What was taught:** Introduction to scatter plot and correlation. There would be a possible driver that would influence the related outcome. For instance, an increase in tree age could be the driver of the increase in the size of the tree trunk. Each row of the dataset would denote one point.
+Furthermore, correlation is being interpreted using two words, which are direction and strength.
+- **What you now understand:** The possible driver is represented on X-axis while the outcome is represented on Y-axis. Also, I now understand the distinct difference between scatter plot and a correlation, which is that correlation coulld only be represented in the form of ranges between -1, 0 and 1. While the negative/positive represents the direction, the closeness of the the correlation outcome to 1 determines how strong the data are correlated
