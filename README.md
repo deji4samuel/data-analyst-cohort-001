@@ -4,7 +4,7 @@
 
 ![Activity](assets/activity.svg)
 
-**33 days logged &middot; 5 weeks &middot; 1-day streak &middot; last activity 2026-08-08**
+**34 days logged &middot; 5 weeks &middot; 1-day streak &middot; last activity 2026-08-14**
 
 ## Latest Proof
 
@@ -12,6 +12,7 @@ Quick recruiter review path — the newest 1-2 weeks of logged evidence.
 
 | Date | Activity | Topic | Evidence |
 | --- | --- | --- | --- |
+| 2026-08-13 | Daily Concept Clinic | Statistics 2: Position - rank, quartiles, percentile, IQR | — |
 | 2026-08-07 | Daily Concept Clinic | Statistics 2: Relationship - scatter plot and correlation | — |
 | 2026-08-03 | Daily Concept Clinic | Statistics 1: Centre - mean, median, mode | — |
 | 2026-08-04 | Daily Concept Clinic | Statistics 1: Choosing mean vs median | — |
@@ -19,7 +20,6 @@ Quick recruiter review path — the newest 1-2 weeks of logged evidence.
 | 30 Jul 2026, 20:42 | Lesson | Analyze: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
 | 30 Jul 2026, 22:13 | Lesson | Visualize: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
 | 30 Jul 2026, 22:27 | Lesson | Portfolio proof: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
-| 30 Jul 2026, 22:41 | Lesson | Review: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
 
 Full journal: [journal/index.md](journal/index.md)
 
