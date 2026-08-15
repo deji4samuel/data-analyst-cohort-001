@@ -7,7 +7,7 @@
 | Lesson | Status | Tasks done | Updated |
 | --- | --- | --- | --- |
 | Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 12 | 04 Aug 2026, 23:35 |
-| Practice: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress | 2 | 16 Aug 2026, 00:16 |
+| Practice: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress | 4 | 16 Aug 2026, 00:24 |
 
 ### Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English
 
@@ -42,7 +42,9 @@
 
 - **Built:** I setup a workbook for the project and created RawData Sheet, Working Sheet and Notes Sheet
 - **Note:** The data from raw data sheet was copied into working sheet and converted to a named Table
-- **Applied:** AVERAGE() function was used to calculate the mean of Monthly return of the assets
+- **Applied:** AVERAGE() function was used to calculate the mean of Monthly Return percentage of Assets
+- **Applied:** MEDIAN() function was used to calculate the median of Monthly Return percentage of Assets
+- **Applied:** I used MiN() and MAX() functions to find the minimum and maximum percentage of the Monthly Return respectively.
 
 ## Daily Concept Clinic
 
