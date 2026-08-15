@@ -2,11 +2,12 @@
 
 [← Back to journal index](index.md)
 
-## Lessons — 0/1 complete
+## Lessons — 1/2 complete
 
 | Lesson | Status | Tasks done | Updated |
 | --- | --- | --- | --- |
-| Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress | 12 | 04 Aug 2026, 23:35 |
+| Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 12 | 04 Aug 2026, 23:35 |
+| Practice: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress | 2 | 16 Aug 2026, 00:16 |
 
 ### Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English
 
@@ -34,6 +35,14 @@
 - [x] Read about QUARTILE() function
 - [x] Read about MODE.SNGL() function
 - [x] Read about CORREL() function
+
+### Practice: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English
+
+**What I did**
+
+- **Built:** I setup a workbook for the project and created RawData Sheet, Working Sheet and Notes Sheet
+- **Note:** The data from raw data sheet was copied into working sheet and converted to a named Table
+- **Applied:** AVERAGE() function was used to calculate the mean of Monthly return of the assets
 
 ## Daily Concept Clinic
 
