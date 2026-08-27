@@ -2,12 +2,13 @@
 
 [← Back to journal index](index.md)
 
-## Lessons — 1/2 complete
+## Lessons — 2/3 complete
 
 | Lesson | Status | Tasks done | Updated |
 | --- | --- | --- | --- |
 | Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 12 | 04 Aug 2026, 23:35 |
-| Practice: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress | 4 | 16 Aug 2026, 00:27 |
+| Practice: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 5 | 16 Aug 2026, 00:37 |
+| Clean and validate: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress | 3 | 27 Aug 2026, 13:12 |
 
 ### Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English
 
@@ -46,6 +47,14 @@
 - **Applied:** MEDIAN() function was used to calculate the median of Monthly Return percentage of Assets
 - **Applied:** I used MiN() and MAX() functions to find the minimum and maximum percentage of the Monthly Return respectively.
 - **Applied:** CORREL() function was used to calculate correlation between MonthlyReturn percentages and Standard Deviation percentages
+
+### Clean and validate: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English
+
+**What I did**
+
+- **Built:** I setup a workbook for the project and created RawData Sheet, Working Sheet and Notes Sheet
+- **Note:** The data from raw data sheet was copied into working sheet and converted to a named Table
+- **Applied:** I used QUARTILE() function to calculate the Q1, Q2 and Q2 of YieldPerHa field
 
 ## Daily Concept Clinic
 
