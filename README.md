@@ -4,7 +4,7 @@
 
 ![Activity](assets/activity.svg)
 
-**37 days logged &middot; 5 weeks &middot; 1-day streak &middot; last activity 2026-08-25**
+**38 days logged &middot; 5 weeks &middot; 1-day streak &middot; last activity 2026-08-27**
 
 ## Latest Proof
 
@@ -12,14 +12,14 @@ Quick recruiter review path — the newest 1-2 weeks of logged evidence.
 
 | Date | Activity | Topic | Evidence |
 | --- | --- | --- | --- |
+| 27 Aug 2026, 13:12 | Lesson | Clean and validate: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress |
 | 2026-08-24 | Daily Concept Clinic | Statistics 6 - Hypothesis Testing and A/B Testing | — |
-| 16 Aug 2026, 00:27 | Lesson | Practice: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress |
+| 16 Aug 2026, 00:37 | Lesson | Practice: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete |
 | 2026-08-13 | Daily Concept Clinic | Statistics 2: Position - rank, quartiles, percentile, IQR | — |
 | 2026-08-07 | Daily Concept Clinic | Statistics 2: Relationship - scatter plot and correlation | — |
 | 2026-08-03 | Daily Concept Clinic | Statistics 1: Centre - mean, median, mode | — |
 | 2026-08-04 | Daily Concept Clinic | Statistics 1: Choosing mean vs median | — |
 | 04 Aug 2026, 23:35 | Lesson | Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete |
-| 30 Jul 2026, 20:42 | Lesson | Analyze: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
 
 Full journal: [journal/index.md](journal/index.md)
 
