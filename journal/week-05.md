@@ -8,7 +8,7 @@
 | --- | --- | --- | --- |
 | Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 12 | 04 Aug 2026, 23:35 |
 | Practice: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 5 | 16 Aug 2026, 00:37 |
-| Clean and validate: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress | 3 | 27 Aug 2026, 13:12 |
+| Clean and validate: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress | 5 | 27 Aug 2026, 14:57 |
 
 ### Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English
 
@@ -55,6 +55,7 @@
 - **Built:** I setup a workbook for the project and created RawData Sheet, Working Sheet and Notes Sheet
 - **Note:** The data from raw data sheet was copied into working sheet and converted to a named Table
 - **Applied:** I used QUARTILE() function to calculate the Q1, Q2 and Q2 of YieldPerHa field
+- **Applied:** I documented the clean records and logged the changes that was applied in the Notes Sheet of the workbook
 
 ## Daily Concept Clinic
 
