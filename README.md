@@ -12,14 +12,14 @@ Quick recruiter review path — the newest 1-2 weeks of logged evidence.
 
 | Date | Activity | Topic | Evidence |
 | --- | --- | --- | --- |
-| 27 Aug 2026, 14:57 | Lesson | Clean and validate: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress |
+| 27 Aug 2026, 14:58 | Lesson | Clean and validate: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete |
+| 27 Aug 2026, 15:52 | Lesson | Analyze: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress |
 | 2026-08-24 | Daily Concept Clinic | Statistics 6 - Hypothesis Testing and A/B Testing | — |
 | 16 Aug 2026, 00:37 | Lesson | Practice: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete |
 | 2026-08-13 | Daily Concept Clinic | Statistics 2: Position - rank, quartiles, percentile, IQR | — |
 | 2026-08-07 | Daily Concept Clinic | Statistics 2: Relationship - scatter plot and correlation | — |
 | 2026-08-03 | Daily Concept Clinic | Statistics 1: Centre - mean, median, mode | — |
 | 2026-08-04 | Daily Concept Clinic | Statistics 1: Choosing mean vs median | — |
-| 04 Aug 2026, 23:35 | Lesson | Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete |
 
 Full journal: [journal/index.md](journal/index.md)
 
