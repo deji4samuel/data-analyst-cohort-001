@@ -2,13 +2,14 @@
 
 [← Back to journal index](index.md)
 
-## Lessons — 2/3 complete
+## Lessons — 3/4 complete
 
 | Lesson | Status | Tasks done | Updated |
 | --- | --- | --- | --- |
 | Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 12 | 04 Aug 2026, 23:35 |
 | Practice: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 5 | 16 Aug 2026, 00:37 |
-| Clean and validate: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress | 5 | 27 Aug 2026, 14:57 |
+| Clean and validate: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 5 | 27 Aug 2026, 14:58 |
+| Analyze: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress | 4 | 27 Aug 2026, 15:52 |
 
 ### Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English
 
@@ -56,6 +57,16 @@
 - **Note:** The data from raw data sheet was copied into working sheet and converted to a named Table
 - **Applied:** I used QUARTILE() function to calculate the Q1, Q2 and Q2 of YieldPerHa field
 - **Applied:** I documented the clean records and logged the changes that was applied in the Notes Sheet of the workbook
+
+### Analyze: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English
+
+**What I did**
+
+- **Built:** I setup a workbook for the project and created RawData Sheet, Working Sheet and Notes Sheet
+- **Note:** The data from raw data sheet was copied into working sheet and converted to a named Table
+- **Applied:** AVERAGE() function was used to calculate the mean of Maths, English and Science subjects
+- **Applied:** MEDIAN() function was used to calculate the median of Maths, English and Science subjects
+- **Applied:** STDEV() function was used to calculate the standard deviation of Maths, English and Science subjects
 
 ## Daily Concept Clinic
 
