@@ -4,7 +4,7 @@
 
 ![Activity](assets/activity.svg)
 
-**39 days logged &middot; 5 weeks &middot; 1-day streak &middot; last activity 2026-08-30**
+**40 days logged &middot; 5 weeks &middot; 1-day streak &middot; last activity 2026-08-31**
 
 ## Latest Proof
 
@@ -12,7 +12,7 @@ Quick recruiter review path — the newest 1-2 weeks of logged evidence.
 
 | Date | Activity | Topic | Evidence |
 | --- | --- | --- | --- |
-| 30 Aug 2026, 23:58 | Lesson | Visualize: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress |
+| 31 Aug 2026, 00:00 | Lesson | Visualize: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress |
 | 27 Aug 2026, 14:58 | Lesson | Clean and validate: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete |
 | 27 Aug 2026, 15:55 | Lesson | Analyze: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete |
 | 2026-08-24 | Daily Concept Clinic | Statistics 6 - Hypothesis Testing and A/B Testing | — |
