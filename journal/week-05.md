@@ -2,7 +2,7 @@
 
 [← Back to journal index](index.md)
 
-## Lessons — 4/5 complete
+## Lessons — 5/6 complete
 
 | Lesson | Status | Tasks done | Updated |
 | --- | --- | --- | --- |
@@ -10,7 +10,8 @@
 | Practice: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 5 | 16 Aug 2026, 00:37 |
 | Clean and validate: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 5 | 27 Aug 2026, 14:58 |
 | Analyze: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 5 | 27 Aug 2026, 15:55 |
-| Visualize: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress | 5 | 31 Aug 2026, 00:23 |
+| Visualize: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 5 | 31 Aug 2026, 00:24 |
+| Portfolio proof: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress | 4 | 31 Aug 2026, 02:28 |
 
 ### Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English
 
@@ -86,6 +87,16 @@
 - **Verified:** I was able to able to add a trend line to the line chart by right-clicking the data series, selected the "Add Trendline" and I checked "Display Equation on chart" and "Display R-squared value on chart"
 - **Applied:** I used scatter port to plot the temperature against the CO2
 - **Built:** I added a trend line to the scatter plot by right-clicking the data series, selected the "Add Trendline".
+
+### Portfolio proof: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English
+
+**What I did**
+
+- **Note:** Out of 8 records that were analysed, the typical waiting time is 1.65hrs. Record P0006 was flagged as outlier with 8hrs waiting time, and inflated the mean to be 2.5hrs.
+- **Note:** The correlation between Waiting time and Staffing negative and strong with the value of r = -0.85, the associated scatter plot shows that additional staff reduces the waiting time
+- **Note:** 8 records were analysed in Agriculture data, 2 of the records were flagged as an outlier.
+- **Note:** One of the records falls beyond the upper fence and the other is far below the typycal average of the Yield per hectar. These were flagged to the administrator
+- **Applied:** The monthly percentage return of 8 investment record were analysed and the MAX() method was used to determine the asset with highest percentage return
 
 ## Daily Concept Clinic
 
