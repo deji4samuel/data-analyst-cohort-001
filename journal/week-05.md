@@ -2,7 +2,7 @@
 
 [← Back to journal index](index.md)
 
-## Lessons — 5/6 complete
+## Lessons — 6/6 complete
 
 | Lesson | Status | Tasks done | Updated |
 | --- | --- | --- | --- |
@@ -11,7 +11,7 @@
 | Clean and validate: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 5 | 27 Aug 2026, 14:58 |
 | Analyze: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 5 | 27 Aug 2026, 15:55 |
 | Visualize: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 5 | 31 Aug 2026, 00:24 |
-| Portfolio proof: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress | 4 | 31 Aug 2026, 02:28 |
+| Portfolio proof: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 5 | 31 Aug 2026, 02:28 |
 
 ### Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English
 
@@ -104,7 +104,11 @@
 
 _2026-08-07 · logged 2026-08-08 23:02 UTC_
 
-- **Clinic topic:** Statistics 2: Relationship - scatter plot and correlation
-- **What was taught:** Introduction to scatter plot and correlation. There would be a possible driver that would influence the related outcome. For instance, an increase in tree age could be the driver of the increase in the size of the tree trunk. Each row of the dataset would denote one point.
+**Taught**
+
+Introduction to scatter plot and correlation. There would be a possible driver that would influence the related outcome. For instance, an increase in tree age could be the driver of the increase in the size of the tree trunk. Each row of the dataset would denote one point.
 Furthermore, correlation is being interpreted using two words, which are direction and strength.
-- **What you now understand:** The possible driver is represented on X-axis while the outcome is represented on Y-axis. Also, I now understand the distinct difference between scatter plot and a correlation, which is that correlation coulld only be represented in the form of ranges between -1, 0 and 1. While the negative/positive represents the direction, the closeness of the the correlation outcome to 1 determines how strong the data are correlated
+
+**What I now understand**
+
+The possible driver is represented on X-axis while the outcome is represented on Y-axis. Also, I now understand the distinct difference between scatter plot and a correlation, which is that correlation coulld only be represented in the form of ranges between -1, 0 and 1. While the negative/positive represents the direction, the closeness of the the correlation outcome to 1 determines how strong the data are correlated
