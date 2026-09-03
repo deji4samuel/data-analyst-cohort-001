@@ -1,15 +1,15 @@
 # Journal Index
 
-Newest week first. Each week links to its own page.
+**10** reflections and **35** lesson notes across 5 weeks. Newest first.
 
-Lessons counts saved lesson notes. Daily Tasks counts separate cohort-tab daily task notes, so a dash there does not mean the lesson had no tasks.
+| Week | Lessons | Clinic | What it covered |  |
+| --- | --- | --- | --- | --- |
+| Week 5 | 6 | 1 | Statistics 2: Relationship - scatter pl... | [open](week-05.md) |
+| Week 4 | 7 | 2 | Statistics 1: Choosing mean vs median, Statistics 1: Centre - mean, median, mode | [open](week-04.md) |
+| Week 3 | 7 | – | Cleaning data: duplicates, TRIM/PROPER,... | [open](week-03.md) |
+| Week 2 | 1 | 5 | DQ Math 05 - Invalid Values & Rule Viol..., Types of dupliccated, Missing Data deep clinic +1 more | [open](week-02.md) |
+| Week 1 | 14 | 2 | Statistics 6 - Hypothesis Testing and A..., Statistics 2: Position - rank, quartile... | [open](week-01.md) |
 
-| Week | Lessons | Daily Tasks | Concept Clinic | Hackathon | Show & Tell | Mock Interview | |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Week 5 | 6 | – | 1 | – | – | – | [open](week-05.md) |
-| Week 4 | 7 | – | 2 | – | – | – | [open](week-04.md) |
-| Week 3 | 7 | – | – | – | – | – | [open](week-03.md) |
-| Week 2 | 1 | – | 5 | – | – | – | [open](week-02.md) |
-| Week 1 | 14 | – | 2 | – | – | – | [open](week-01.md) |
+_Lessons counts saved lesson notes; the activity columns count cohort-tab entries. A dash means nothing was logged there, not that nothing happened._
 
 Pre-cohort notes: [pre-cohort-notes.md](pre-cohort-notes.md)
