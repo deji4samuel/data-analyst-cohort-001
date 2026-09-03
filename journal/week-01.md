@@ -270,24 +270,37 @@
 
 _2026-08-13 · logged 2026-08-14 14:11 UTC_
 
-- **Clinic topic:** Statistics 2: Position - rank, quartiles, percentile, IQR
-- **What was taught:** Rank was well explained, and familiar examples were shown so us to speed up and establish our understanding. This is being applied when there is a tie in positioning
-- **What you now understand:** I now understand that there are some types of ranking which include the following:
+**Taught**
+
+Rank was well explained, and familiar examples were shown so us to speed up and establish our understanding. This is being applied when there is a tie in positioning
+
+**What I now understand**
+
+I now understand that there are some types of ranking which include the following:
 1. Standard or 4-2-2-1 rank, and
 2. Dense rank
 
 Standard rank will skip the next position when there is a tie and continue with the next available position based on the number of the tied items. However, dense rank does not skip the position; rather, all the tied items are grouped into that position.
-- **What is still unclear or your feedback:** Implementation of the dense rank
-- **What support or practice you need next:** More worked examples on this topic
+
+- **Still unclear:** Implementation of the dense rank
+- **Support I need next:** More worked examples on this topic
 
 ### Statistics 6 - Hypothesis Testing and A/B Testing
 
 _2026-08-24 · logged 2026-08-25 10:23 UTC_
 
-- **Clinic topic:** Statistics 6 - Hypothesis Testing and A/B Testing
-- **What was taught:** The basics and where A/B testing is applicable. Also, we were taught to understand why A/B testing is important.
-- **What you now understand:** I got to understand that A/B testing is very good when there is a need to apply the parallel migration method in the implementing process.
+**Taught**
+
+The basics and where A/B testing is applicable. Also, we were taught to understand why A/B testing is important.
+
+**What I now understand**
+
+I got to understand that A/B testing is very good when there is a need to apply the parallel migration method in the implementing process.
 
 I also understand that it good to get feedback on the users' reaction or acceptability about a new process or product
-- **What is still unclear or your feedback:** Would still need to research more on other areas where A/B Testing would be applicable aside from retails and the scientific research domain
-- **What support or practice you need next:** To practice more of A/B Testing
+
+**Still unclear**
+
+Would still need to research more on other areas where A/B Testing would be applicable aside from retails and the scientific research domain
+
+- **Support I need next:** To practice more of A/B Testing
