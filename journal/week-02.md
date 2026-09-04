@@ -39,7 +39,7 @@
 
 ### Interpretation  of SQL questions
 
-_2026-07-15_
+_2026-07-15 · logged 2026-09-04 00:26 UTC_
 
 **Taught**
 
@@ -53,7 +53,7 @@ I understood that the situations in the SQL question revolve around the table(s)
 
 ### Missing Data deep clinic
 
-_2026-07-17_
+_2026-07-17 · logged 2026-09-04 00:26 UTC_
 
 **Taught**
 
@@ -65,7 +65,7 @@ Missing data is beyond a blank cell or empty string. It's even beyond placeholde
 
 ### Types of dupliccated
 
-_2026-07-21_
+_2026-07-21 · logged 2026-09-04 00:26 UTC_
 
 **Taught**
 
@@ -80,7 +80,7 @@ Steps to respond to duplicates are
 
 ### DQ Math 05 - Invalid Values & Rule Violations
 
-_2026-07-27_
+_2026-07-27 · logged 2026-09-04 00:26 UTC_
 
 **Taught**
 
@@ -96,7 +96,7 @@ I was able to understand the use of the violation rate and validation rate. Also
 
 ### DQ Math 05 - Invalid Values & Rule Violations
 
-_2026-07-28_
+_2026-07-28 · logged 2026-09-04 00:26 UTC_
 
 **Taught**
 
