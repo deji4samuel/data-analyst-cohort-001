@@ -304,3 +304,27 @@ I also understand that it good to get feedback on the users' reaction or accepta
 Would still need to research more on other areas where A/B Testing would be applicable aside from retails and the scientific research domain
 
 - **Support I need next:** To practice more of A/B Testing
+
+### SQL 02 · Data Modelling — The Five Phases
+
+_2026-09-02 · logged 2026-09-04 00:26 UTC_
+
+**Taught**
+
+The meaning of data modelling. It's different classification and common vocabulary of every model
+
+**What I now understand**
+
+I was able to understand data model is the is a disciplined map of business things, facts, rules and relationships. Data modelling elaborates on the following points
+
+1. It is more about understanding the real-world thing we store data about - for instance, we store data about Customers, Products, Games Played, Employments/Unemployments, Helpdesk Tickets.
+2. It also considered the structure of which we used to store those data. This talks about which tables, which fields would be involved, and the relationship between these tables/fields.
+3. Data modelling also addresses the rules that must be involved such as what must be unique, what would be required, and validation rules.
+4. Lastly, data modelling also put into consideration what the data would be used for right from the inception. Would it be used for transactions, analytics, reporting or ML purposes.
+
+I also got to know that data models could be classified as abstraction, storage style, purposes, analytic shape and design direction.
+
+More emphases was laid on the abstraction so as to understand its main versions which involve Conceptual, Logical and Physical. Conceptual is all about getting to know the business concept we are designing the model for, which may look a bit wide and consist of well detailed and repetitive information. The Logical part is about understanding how the whole records could be grouped into logical parts in terms of tables. And the Physical part is about the actual creation of the tables in the database
+
+- **Still unclear:** analytic shape and design direction.
+- **Evidence:** Ensure you understand the business question and why the data is being modelled.
