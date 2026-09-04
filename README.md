@@ -4,7 +4,7 @@
 
 ![Activity](assets/activity.svg)
 
-**42 days logged &middot; 5 weeks &middot; 1-day streak &middot; last activity 2026-09-03**
+**42 days logged &middot; 5 weeks &middot; 2-day streak &middot; last activity 2026-09-04**
 
 ## Latest Proof
 
@@ -12,14 +12,14 @@ Quick recruiter review path — the newest 1-2 weeks of logged evidence.
 
 | Date | Activity | Topic | Evidence |
 | --- | --- | --- | --- |
+| 2026-09-02 | Daily Concept Clinic | SQL 02 · Data Modelling — The Five Phases | Ensure you understand the business question and why the data is being modelled. |
+| 2026-07-15 | Daily Concept Clinic | Interpretation  of SQL questions | — |
+| 2026-07-17 | Daily Concept Clinic | Missing Data deep clinic | — |
+| 2026-07-21 | Daily Concept Clinic | Types of dupliccated | — |
+| 2026-07-27 | Daily Concept Clinic | DQ Math 05 - Invalid Values & Rule Violations | — |
+| 2026-07-28 | Daily Concept Clinic | DQ Math 05 - Invalid Values & Rule Violations | — |
 | 31 Aug 2026, 00:24 | Lesson | Visualize: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete |
 | 31 Aug 2026, 02:28 | Lesson | Portfolio proof: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete |
-| 27 Aug 2026, 14:58 | Lesson | Clean and validate: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete |
-| 27 Aug 2026, 15:55 | Lesson | Analyze: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete |
-| 2026-08-24 | Daily Concept Clinic | Statistics 6 - Hypothesis Testing and A/B Testing | — |
-| 16 Aug 2026, 00:37 | Lesson | Practice: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete |
-| 2026-08-13 | Daily Concept Clinic | Statistics 2: Position - rank, quartiles, percentile, IQR | — |
-| 2026-08-07 | Daily Concept Clinic | Statistics 2: Relationship - scatter plot and correlation | — |
 
 Full journal: [journal/index.md](journal/index.md)
 
