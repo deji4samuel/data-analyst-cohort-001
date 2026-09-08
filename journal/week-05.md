@@ -2,7 +2,7 @@
 
 [← Back to journal index](index.md)
 
-## Lessons — 6/6 complete
+## Lessons — 7/7 complete
 
 | Lesson | Status | Tasks done | Updated |
 | --- | --- | --- | --- |
@@ -12,6 +12,7 @@
 | Analyze: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 5 | 27 Aug 2026, 15:55 |
 | Visualize: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 5 | 31 Aug 2026, 00:24 |
 | Portfolio proof: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 5 | 31 Aug 2026, 02:28 |
+| Review: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 5 | 31 Aug 2026, 02:32 |
 
 ### Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English
 
