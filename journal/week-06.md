@@ -6,7 +6,7 @@
 
 | Lesson | Status | Tasks done | Updated |
 | --- | --- | --- | --- |
-| Learn: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | In progress | 7 | 08 Sept 2026, 07:33 |
+| Learn: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | In progress | 7 | 08 Sept 2026, 09:49 |
 
 ### Learn: Normal distribution, z-scores, probability, and the 68-95-99.7 rule
 
@@ -18,8 +18,10 @@
 - **Applied:** NORM.DIST() method was used to find the probability that package will fail
 - **Applied:** I used formula (value - mean)/SD for callculate the Z-Score
 - **Built:** I added Quaity Control column so as to flag the batches that woudl be rejected
+- **Applied:** NORM.INV() method was used to find the value give the probabiity that package woud fail
+- **Applied:** I used histogram chart to plot the weigth distribution so as to visualise the curve and observe the spread
 
 **To explore further**
 
 - [x] Read about NORM.DIST() method
-- [ ] Read about NORM.INV() method
+- [x] Read about NORM.INV() method
