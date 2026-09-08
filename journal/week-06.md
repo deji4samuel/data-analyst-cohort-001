@@ -6,7 +6,7 @@
 
 | Lesson | Status | Tasks done | Updated |
 | --- | --- | --- | --- |
-| Learn: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | In progress | 7 | 08 Sept 2026, 07:29 |
+| Learn: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | In progress | 7 | 08 Sept 2026, 07:33 |
 
 ### Learn: Normal distribution, z-scores, probability, and the 68-95-99.7 rule
 
@@ -16,6 +16,8 @@
 - **Note:** The data from raw data sheet was copied into working sheet and converted to a named Table
 - **Built:** I created a named cell for the vaues of Mean, Standard Deviation and the Threshold.
 - **Applied:** NORM.DIST() method was used to find the probability that package will fail
+- **Applied:** I used formula (value - mean)/SD for callculate the Z-Score
+- **Built:** I added Quaity Control column so as to flag the batches that woudl be rejected
 
 **To explore further**
 
