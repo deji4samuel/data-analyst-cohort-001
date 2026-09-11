@@ -2,11 +2,12 @@
 
 [← Back to journal index](index.md)
 
-## Lessons — 0/1 complete
+## Lessons — 1/2 complete
 
 | Lesson | Status | Tasks done | Updated |
 | --- | --- | --- | --- |
-| Learn: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | In progress | 7 | 08 Sept 2026, 09:49 |
+| Learn: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete | 7 | 08 Sept 2026, 09:49 |
+| Practice: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | In progress | 4 | 11 Sept 2026, 10:11 |
 
 ### Learn: Normal distribution, z-scores, probability, and the 68-95-99.7 rule
 
@@ -25,3 +26,10 @@
 
 - [x] Read about NORM.DIST() method
 - [x] Read about NORM.INV() method
+
+### Practice: Normal distribution, z-scores, probability, and the 68-95-99.7 rule
+
+**What I did**
+
+- **Applied:** Given the value of mean and SD, I used NORM.DIST() method to caculate and discovered that 4% of the loan applicants would be automatically declined
+- **Applied:** I used the Z-score formula to compare diferent data point so as to know how far they are from center
