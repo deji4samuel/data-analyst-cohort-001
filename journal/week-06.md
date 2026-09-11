@@ -2,12 +2,14 @@
 
 [← Back to journal index](index.md)
 
-## Lessons — 1/2 complete
+## Lessons — 3/4 complete
 
 | Lesson | Status | Tasks done | Updated |
 | --- | --- | --- | --- |
 | Learn: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete | 7 | 08 Sept 2026, 09:49 |
-| Practice: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | In progress | 4 | 11 Sept 2026, 10:11 |
+| Practice: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete | 5 | 11 Sept 2026, 10:21 |
+| Clean and validate: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete | 5 | 11 Sept 2026, 11:52 |
+| Analyze: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | In progress | 5 | 11 Sept 2026, 12:54 |
 
 ### Learn: Normal distribution, z-scores, probability, and the 68-95-99.7 rule
 
@@ -33,3 +35,17 @@
 
 - **Applied:** Given the value of mean and SD, I used NORM.DIST() method to caculate and discovered that 4% of the loan applicants would be automatically declined
 - **Applied:** I used the Z-score formula to compare diferent data point so as to know how far they are from center
+
+### Clean and validate: Normal distribution, z-scores, probability, and the 68-95-99.7 rule
+
+**What I did**
+
+- **Applied:** Z score formula was used to calculate and discover if the given values are within the expected value
+
+### Analyze: Normal distribution, z-scores, probability, and the 68-95-99.7 rule
+
+**What I did**
+
+- **Applied:** Z scoore formula `(value - mean)/SD` was used to discover how far is the average sales order of the flash day sales from normal day
+- **Applied:** `=1 - NORM.DIST(68, 47, 12, TRUE)` was used to discovered that only 4% of normal day average order value could achieve such order value
+- **Applied:** `NORM.INV(x%, 47, 12)` was used to define the average sales order expected from different percentile.
