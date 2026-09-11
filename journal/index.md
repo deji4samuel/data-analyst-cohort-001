@@ -1,10 +1,10 @@
 # Journal Index
 
-**11** reflections and **37** lesson notes across 6 weeks. Newest first.
+**11** reflections and **38** lesson notes across 6 weeks. Newest first.
 
 | Week | Lessons | Clinic | What it covered |  |
 | --- | --- | --- | --- | --- |
-| Week 6 | 1 | – | Normal distribution, z-scores, probabil... | [open](week-06.md) |
+| Week 6 | 2 | – | Normal distribution, z-scores, probabil... | [open](week-06.md) |
 | Week 5 | 7 | 1 | Statistics 2: Relationship - scatter pl... | [open](week-05.md) |
 | Week 4 | 7 | 2 | Statistics 1: Choosing mean vs median, Statistics 1: Centre - mean, median, mode | [open](week-04.md) |
 | Week 3 | 7 | – | Cleaning data: duplicates, TRIM/PROPER,... | [open](week-03.md) |
