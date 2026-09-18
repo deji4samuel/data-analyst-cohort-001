@@ -2,14 +2,15 @@
 
 [← Back to journal index](index.md)
 
-## Lessons — 3/4 complete
+## Lessons — 4/5 complete
 
 | Lesson | Status | Tasks done | Updated |
 | --- | --- | --- | --- |
 | Learn: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete | 7 | 08 Sept 2026, 09:49 |
 | Practice: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete | 5 | 11 Sept 2026, 10:21 |
 | Clean and validate: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete | 5 | 11 Sept 2026, 11:52 |
-| Analyze: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | In progress | 5 | 11 Sept 2026, 12:54 |
+| Analyze: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete | 5 | 11 Sept 2026, 12:55 |
+| Visualize: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | In progress | 5 | 18 Sept 2026, 12:12 |
 
 ### Learn: Normal distribution, z-scores, probability, and the 68-95-99.7 rule
 
@@ -49,3 +50,10 @@
 - **Applied:** Z scoore formula `(value - mean)/SD` was used to discover how far is the average sales order of the flash day sales from normal day
 - **Applied:** `=1 - NORM.DIST(68, 47, 12, TRUE)` was used to discovered that only 4% of normal day average order value could achieve such order value
 - **Applied:** `NORM.INV(x%, 47, 12)` was used to define the average sales order expected from different percentile.
+
+### Visualize: Normal distribution, z-scores, probability, and the 68-95-99.7 rule
+
+**What I did**
+
+- **Applied:** I used SEQUENCE() method to create both below and above threshold series
+- **Applied:** NORM.INV() method was used to find the 90th percentile threshold of the distribution
