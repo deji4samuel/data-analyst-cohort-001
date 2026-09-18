@@ -2,7 +2,7 @@
 
 [← Back to journal index](index.md)
 
-## Lessons — 4/5 complete
+## Lessons — 5/6 complete
 
 | Lesson | Status | Tasks done | Updated |
 | --- | --- | --- | --- |
@@ -10,7 +10,8 @@
 | Practice: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete | 5 | 11 Sept 2026, 10:21 |
 | Clean and validate: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete | 5 | 11 Sept 2026, 11:52 |
 | Analyze: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete | 5 | 11 Sept 2026, 12:55 |
-| Visualize: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | In progress | 5 | 18 Sept 2026, 12:12 |
+| Visualize: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete | 5 | 18 Sept 2026, 12:12 |
+| Portfolio proof: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | In progress | 3 | 18 Sept 2026, 12:26 |
 
 ### Learn: Normal distribution, z-scores, probability, and the 68-95-99.7 rule
 
@@ -57,3 +58,10 @@
 
 - **Applied:** I used SEQUENCE() method to create both below and above threshold series
 - **Applied:** NORM.INV() method was used to find the 90th percentile threshold of the distribution
+
+### Portfolio proof: Normal distribution, z-scores, probability, and the 68-95-99.7 rule
+
+**What I did**
+
+- **Verified:** The rejection rate of 10.6% is assumed at daily volume usning the formula `=NORM.DIST(Threshold_g,Mean_g,SD_g,TRUE)`, and the worst batch result (B007 at 188.2g, z=-2.95).
+- **Note:** It is recommended to raise the fill weigth to 202g (making use of the same SD), so as to drop the rejection rate to approximately 2.3%. `=NORM.INV(0.02,202,4)`
